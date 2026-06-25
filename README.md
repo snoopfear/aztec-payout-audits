@@ -43,6 +43,19 @@ Each settlement range adds audit artifacts under `runs/`.
 
 Next payout should start from epoch `4226`.
 
+### README maintenance after each payout
+
+After a new payout range is completed and published:
+
+1. Add a new row to the table above.
+2. Update `Next payout should start from epoch ...`.
+3. Update the same next-start epoch in the `Operator details` table below.
+4. Make sure the new range artifacts exist in `runs/`:
+   - `epoch-<from>-<to>-<runId>.json`
+   - `epoch-<from>-<to>-final-reconciliation.json`
+   - `epoch-<from>-<to>-done.json`
+   - updated `paid-ranges.md`
+
 ## How to verify a distribution
 
 Everything needed to re-derive a payout is in the audit JSON:
@@ -53,12 +66,14 @@ Everything needed to re-derive a payout is in the audit JSON:
 4. Sum the per-delegator proposal weights, apply the published commission, and compare the result to `transfers[]`.
 5. For settled ranges, compare `transfers[]` against the final reconciliation file and the ERC20 `Transfer` events from the distribution wallet.
 
-The `4017-4225` range has final reconciliation status `paid`, with:
+For each settled range, the corresponding final reconciliation file should show:
 
-- `paidCount: 18`
-- `unpaidCount: 0`
-- `ambiguousCount: 0`
-- `totalPaidAztec: 130,987.5`
+- `paidCount == expectedCount`
+- `unpaidCount == 0`
+- `ambiguousCount == 0`
+- `totalPaidAztec == totalExpectedAztec`
+
+For transaction-level proof, check each paid entry in the reconciliation file against the ERC20 `Transfer` event from the distribution wallet to the listed recipient for the exact `amountWei`.
 
 ## Operator details
 
