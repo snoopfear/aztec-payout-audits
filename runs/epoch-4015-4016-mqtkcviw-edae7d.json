@@ -1,0 +1,81 @@
+{
+  "runId": "mqtkcviw-edae7d",
+  "startedAt": "2026-06-25T13:54:23.000Z",
+  "finishedAt": "2026-06-25T13:54:23.001Z",
+  "status": "calldata-emitted",
+  "providerId": "25",
+  "distributionWallet": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "transactions": [
+    {
+      "label": "ERC20.transfer #1/1 → 0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246 (262500000000000000000)",
+      "to": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+      "value": "0",
+      "data": "0xa9059cbb0000000000000000000000007535a04ba04152f5446e2e94d6dd6d9f8643d24600000000000000000000000000000000000000000000000e3aeb5737240a0000",
+      "function": "transfer",
+      "args": {
+        "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+        "delegator": "0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246",
+        "amount": "262500000000000000000",
+        "preRateShare": "350000000000000000000"
+      }
+    }
+  ],
+  "totals": {
+    "totalForwarded": "262500000000000000000",
+    "operatorRetention": "87500000000000000000"
+  },
+  "fromEpoch": "4015",
+  "toEpoch": "4016",
+  "fromCheckpoint": "87948",
+  "toCheckpoint": "88006",
+  "fromBlock": "25354347",
+  "toBlock": "25354727",
+  "finalizedBlock": "25394979",
+  "rewardConfig": {
+    "checkpointReward": "500000000000000000000",
+    "sequencerBps": 7000,
+    "sequencerRewardPerCheckpoint": "350000000000000000000"
+  },
+  "checkpointsProposed": 1,
+  "rewardEarned": "350000000000000000000",
+  "gasCost": {
+    "txCount": 1,
+    "totalGasUsed": "344156",
+    "totalEthSpentWei": "59247437965380",
+    "weightedAvgGasPriceWei": "172152855"
+  },
+  "commissionBps": 2500,
+  "attributionMode": "proposals",
+  "outputMode": "safe",
+  "delegatorCount": 21,
+  "transfers": [
+    {
+      "delegator": "0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246",
+      "preRateShare": "350000000000000000000",
+      "amount": "262500000000000000000",
+      "weight": 1,
+      "attesters": 50
+    }
+  ],
+  "attributedCheckpoints": [
+    {
+      "checkpointNumber": "87980",
+      "txHash": "0xd0069fceebde240fcc6e605c8ab00b1975bf9e6e1f6532f5084e96f4bf072c76",
+      "blockNumber": "25354546",
+      "attester": "0x0A60909D67111f72a1D36EE32eEC0148F336e834",
+      "delegator": "0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246",
+      "coinbase": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+      "counted": true
+    }
+  ],
+  "coinbaseFilter": {
+    "mode": "match-distribution-wallet",
+    "expectedCoinbase": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+    "operatorTotal": 1,
+    "counted": 1,
+    "droppedDueToCoinbaseMismatch": 0
+  },
+  "txHashes": [],
+  "safeImportPath": "/root/aztec-tools/aztec-staking-payout/runs/epoch-4015-4016-mqtkcviw-edae7d.safe.json"
+}

@@ -1,0 +1,315 @@
+{
+  "recordedAtUtc": "2026-06-25T19:27:34Z",
+  "status": "paid",
+  "type": "aztec-provider-payout-range-final-reconciliation",
+  "providerId": "25",
+  "fromEpoch": 4017,
+  "toEpoch": 4225,
+  "nextPayoutShouldStartFrom": 4226,
+  "distributionWallet": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "auditFile": "runs/epoch-4017-4225-mqtl7gkp-3ab058.json",
+  "fromBlock": 25395300,
+  "expectedCount": 18,
+  "paidCount": 18,
+  "unpaidCount": 0,
+  "ambiguousCount": 0,
+  "totalExpectedAztec": 130987.5,
+  "totalPaidAztec": 130987.5,
+  "totalUnpaidAztec": 0.0,
+  "operatorRetentionAztec": 43662.5,
+  "incidentLossAztec": 51712.5,
+  "incidentTx": "0xa2463a2377a95f70020fa10dcccc410ee703ef93cb5064de378fdd7723cf9e0a",
+  "paid": [
+    {
+      "idx": 1,
+      "recipient": "0xCfdc7f77c37268c14293ebD466768F6068D99461",
+      "amountWei": "32025000000000000000000",
+      "amountAztec": 32025.0,
+      "proposals": 122,
+      "attesters": 50,
+      "raw": "1\t0xCfdc7f77c37268c14293ebD466768F6068D99461\t32025000000000000000000\t122\t50",
+      "matches": [
+        {
+          "txHash": "0xe57d8691086597d05e87f5f3ef3821b66a56a826d42541950b428c6f8d5caee9",
+          "blockNumber": 25395340,
+          "logIndex": 332
+        }
+      ]
+    },
+    {
+      "idx": 2,
+      "recipient": "0xa8E4689F15b3300F191C223500930A0dE2f4d705",
+      "amountWei": "43050000000000000000000",
+      "amountAztec": 43050.0,
+      "proposals": 164,
+      "attesters": 70,
+      "raw": "2\t0xa8E4689F15b3300F191C223500930A0dE2f4d705\t43050000000000000000000\t164\t70",
+      "matches": [
+        {
+          "txHash": "0x1f2e908e5a5c5e1c5cf675fac12006e9adb9dd707e7f26c414c385fbf636effa",
+          "blockNumber": 25395344,
+          "logIndex": 761
+        }
+      ]
+    },
+    {
+      "idx": 3,
+      "recipient": "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881",
+      "amountWei": "3150000000000000000000",
+      "amountAztec": 3150.0,
+      "proposals": 12,
+      "attesters": 6,
+      "raw": "3\t0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881\t3150000000000000000000\t12\t6",
+      "matches": [
+        {
+          "txHash": "0x1a81101586642acfc4f0e3c203a029c67f22a3314606973fb5f3412b1c1e20b9",
+          "blockNumber": 25395349,
+          "logIndex": 1000
+        }
+      ]
+    },
+    {
+      "idx": 4,
+      "recipient": "0x7Ad335A970bd2DCFe2412dc88959d29DC087dAe3",
+      "amountWei": "1050000000000000000000",
+      "amountAztec": 1050.0,
+      "proposals": 4,
+      "attesters": 1,
+      "raw": "4\t0x7Ad335A970bd2DCFe2412dc88959d29DC087dAe3\t1050000000000000000000\t4\t1",
+      "matches": [
+        {
+          "txHash": "0x14eb636524fd842fb317e67aaa2317d6ecb0f48f6dff41caaac84e9b853ef057",
+          "blockNumber": 25395367,
+          "logIndex": 689
+        }
+      ]
+    },
+    {
+      "idx": 5,
+      "recipient": "0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE",
+      "amountWei": "525000000000000000000",
+      "amountAztec": 525.0,
+      "proposals": 2,
+      "attesters": 2,
+      "raw": "5\t0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE\t525000000000000000000\t2\t2",
+      "matches": [
+        {
+          "txHash": "0x5606cf59cf0153b215f4c44884b6a47e2e5701d82468d1ce15b91cc479f394d9",
+          "blockNumber": 25395540,
+          "logIndex": 710
+        }
+      ]
+    },
+    {
+      "idx": 6,
+      "recipient": "0x6E61F5486c688d11743C313F083415fDaC9b0075",
+      "amountWei": "2887500000000000000000",
+      "amountAztec": 2887.5,
+      "proposals": 11,
+      "attesters": 3,
+      "raw": "6\t0x6E61F5486c688d11743C313F083415fDaC9b0075\t2887500000000000000000\t11\t3",
+      "matches": [
+        {
+          "txHash": "0x60cbfbb8153c3cc7ddd1add622830e1371598b4df535df118cfe0593818d9ac3",
+          "blockNumber": 25395557,
+          "logIndex": 395
+        }
+      ]
+    },
+    {
+      "idx": 7,
+      "recipient": "0x0c6AD8D10c58F4e412bB41738648502F5C53d70A",
+      "amountWei": "1312500000000000000000",
+      "amountAztec": 1312.5,
+      "proposals": 5,
+      "attesters": 3,
+      "raw": "7\t0x0c6AD8D10c58F4e412bB41738648502F5C53d70A\t1312500000000000000000\t5\t3",
+      "matches": [
+        {
+          "txHash": "0xae02427b5b7c6468edbe698954d0f4b3bb87c83d6cc6af32e64a0497aa09019a",
+          "blockNumber": 25395558,
+          "logIndex": 717
+        }
+      ]
+    },
+    {
+      "idx": 8,
+      "recipient": "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56",
+      "amountWei": "9187500000000000000000",
+      "amountAztec": 9187.5,
+      "proposals": 35,
+      "attesters": 27,
+      "raw": "8\t0x17eC1456F3fe03B5ce0386a3d362e31d99596A56\t9187500000000000000000\t35\t27",
+      "matches": [
+        {
+          "txHash": "0xc7b35eec2c78a695d8e75da0187bfd7f451a06c0f7dc0ec917b90cbb71bbf843",
+          "blockNumber": 25395561,
+          "logIndex": 852
+        }
+      ]
+    },
+    {
+      "idx": 9,
+      "recipient": "0x7075F5B527a8786799aB8165F4780e27Bc4844C2",
+      "amountWei": "787500000000000000000",
+      "amountAztec": 787.5,
+      "proposals": 3,
+      "attesters": 1,
+      "raw": "9\t0x7075F5B527a8786799aB8165F4780e27Bc4844C2\t787500000000000000000\t3\t1",
+      "matches": [
+        {
+          "txHash": "0xbc0590e31785e467792b1b47afb5640fc9a8733502d827e94f4f860715cfdb86",
+          "blockNumber": 25396524,
+          "logIndex": 476
+        }
+      ]
+    },
+    {
+      "idx": 10,
+      "recipient": "0x04657289097b187a8EB62B11FEb542f0CE7D0c26",
+      "amountWei": "3937500000000000000000",
+      "amountAztec": 3937.5,
+      "proposals": 15,
+      "attesters": 6,
+      "raw": "10\t0x04657289097b187a8EB62B11FEb542f0CE7D0c26\t3937500000000000000000\t15\t6",
+      "matches": [
+        {
+          "txHash": "0x47adc406fb9bbaed4b7265369d04943738cdb153b2b0de3249ed054a3320161e",
+          "blockNumber": 25396637,
+          "logIndex": 770
+        }
+      ]
+    },
+    {
+      "idx": 11,
+      "recipient": "0x426834AeCD8366D51538E98966a0FCf28957ca2e",
+      "amountWei": "2625000000000000000000",
+      "amountAztec": 2625.0,
+      "proposals": 10,
+      "attesters": 5,
+      "raw": "11\t0x426834AeCD8366D51538E98966a0FCf28957ca2e\t2625000000000000000000\t10\t5",
+      "matches": [
+        {
+          "txHash": "0xd14359b404a42534ae55545cc51a5e4b2d56f44dfd2241ad1b3e006e3cfc2db8",
+          "blockNumber": 25396664,
+          "logIndex": 491
+        }
+      ]
+    },
+    {
+      "idx": 12,
+      "recipient": "0x99a21182389f36F0bBE29eB1F3E15c83d641865b",
+      "amountWei": "262500000000000000000",
+      "amountAztec": 262.5,
+      "proposals": 1,
+      "attesters": 1,
+      "raw": "12\t0x99a21182389f36F0bBE29eB1F3E15c83d641865b\t262500000000000000000\t1\t1",
+      "matches": [
+        {
+          "txHash": "0xac2fc80dcb616ac0f6a7c49adb7cdfc3de429db0a69041d4e556723cf7b50d9a",
+          "blockNumber": 25396665,
+          "logIndex": 708
+        }
+      ]
+    },
+    {
+      "idx": 13,
+      "recipient": "0x42D62b35402aDe3eaA9bCAeCa3d4e539F5cb0B82",
+      "amountWei": "1050000000000000000000",
+      "amountAztec": 1050.0,
+      "proposals": 4,
+      "attesters": 1,
+      "raw": "13\t0x42D62b35402aDe3eaA9bCAeCa3d4e539F5cb0B82\t1050000000000000000000\t4\t1",
+      "matches": [
+        {
+          "txHash": "0x08b668ee3d76dc58709cf9948fdd7e8712bb75f5f1ecf66b1b988a00321470bc",
+          "blockNumber": 25396666,
+          "logIndex": 1417
+        }
+      ]
+    },
+    {
+      "idx": 14,
+      "recipient": "0x489DB05faD6aaC6F5be04b3a0D91c54Cb831f5ce",
+      "amountWei": "262500000000000000000",
+      "amountAztec": 262.5,
+      "proposals": 1,
+      "attesters": 1,
+      "raw": "14\t0x489DB05faD6aaC6F5be04b3a0D91c54Cb831f5ce\t262500000000000000000\t1\t1",
+      "matches": [
+        {
+          "txHash": "0x307b97488b9c593df017d9da998c901ca4710b813547e7cbbcd98c5c99635a0d",
+          "blockNumber": 25396670,
+          "logIndex": 909
+        }
+      ]
+    },
+    {
+      "idx": 15,
+      "recipient": "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d",
+      "amountWei": "3150000000000000000000",
+      "amountAztec": 3150.0,
+      "proposals": 12,
+      "attesters": 5,
+      "raw": "15\t0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d\t3150000000000000000000\t12\t5",
+      "matches": [
+        {
+          "txHash": "0xd4d562ce39f50cb9592accf1ce7e1f1d7d81cb7759d68617b776ea746b599696",
+          "blockNumber": 25396671,
+          "logIndex": 1012
+        }
+      ]
+    },
+    {
+      "idx": 16,
+      "recipient": "0xa76147B3e2593951742813bcC7AAEb3E95ceB127",
+      "amountWei": "787500000000000000000",
+      "amountAztec": 787.5,
+      "proposals": 3,
+      "attesters": 1,
+      "raw": "16\t0xa76147B3e2593951742813bcC7AAEb3E95ceB127\t787500000000000000000\t3\t1",
+      "matches": [
+        {
+          "txHash": "0x76497d367fb483f0faeddf27b40de9f23a4e14644beb7c795a0b296f53577196",
+          "blockNumber": 25396673,
+          "logIndex": 662
+        }
+      ]
+    },
+    {
+      "idx": 17,
+      "recipient": "0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246",
+      "amountWei": "24150000000000000000000",
+      "amountAztec": 24150.0,
+      "proposals": 92,
+      "attesters": 50,
+      "raw": "17\t0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246\t24150000000000000000000\t92\t50",
+      "matches": [
+        {
+          "txHash": "0x7f2f4ec492558f14dd0863b8ce1c0cdf740e02ff3290febc3a3444b0f8651c84",
+          "blockNumber": 25396675,
+          "logIndex": 535
+        }
+      ]
+    },
+    {
+      "idx": 18,
+      "recipient": "0x4b294AC8048f7F9509750d3e802447c648Be53c9",
+      "amountWei": "787500000000000000000",
+      "amountAztec": 787.5,
+      "proposals": 3,
+      "attesters": 1,
+      "raw": "18\t0x4b294AC8048f7F9509750d3e802447c648Be53c9\t787500000000000000000\t3\t1",
+      "matches": [
+        {
+          "txHash": "0x7b2137c0392aa4149e0635bcea235ec5edfdee8100db3ff408c22a7c425b8394",
+          "blockNumber": 25396719,
+          "logIndex": 616
+        }
+      ]
+    }
+  ],
+  "unpaid": [],
+  "ambiguous": []
+}
