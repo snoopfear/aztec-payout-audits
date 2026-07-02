@@ -37,3 +37,17 @@
 - Incident tx: 0xa2463a2377a95f70020fa10dcccc410ee703ef93cb5064de378fdd7723cf9e0a
 - Transfer mode actually completed: direct ERC20.transfer transactions from encrypted Foundry account
 - Next payout should start from: 4226
+
+## Paid payout 4226-4485
+
+- Status: paid / final on-chain reconciliation clean
+- Range: 4226-4485
+- Provider ID: 25
+- Audit: runs/epoch-4226-4485-mr3fxnju-ab21d2.json
+- Final reconciliation: runs/epoch-4226-4485-final-reconciliation.json
+- Done record: runs/epoch-4226-4485-done.json
+- Paid transfers: 17 / 17
+- Delegator payout total: 144,375 AZTEC
+- Operator retention according to audit: 48,125 AZTEC
+- Transfer mode: direct ERC20.transfer from encrypted Foundry account
+- Next payout should start from: 4486

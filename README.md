@@ -40,8 +40,9 @@ Each settlement range adds audit artifacts under `runs/`.
 |---|---:|---:|---|
 | `4015-4016` | paid | `262.5 AZTEC` | Initial test payout |
 | `4017-4225` | paid | `130,987.5 AZTEC` | Final reconciliation clean, `18/18` transfers |
+| `4226-4485` | paid | `144,375 AZTEC` | Final reconciliation clean, `17/17` transfers |
 
-Next payout should start from epoch `4226`.
+Next payout should start from epoch `4486`.
 
 ### README maintenance after each payout
 
@@ -84,4 +85,4 @@ For transaction-level proof, check each paid entry in the reconciliation file ag
 | Distribution wallet | `0x1F0d98760aE903AF089c847550D0C28183F4b178` |
 | Commission | `25%` / `2500` bps |
 | Payout mode | Audited off-chain payout from distribution wallet |
-| Next payout start epoch | `4226` |
+| Next payout start epoch | `4486` |
