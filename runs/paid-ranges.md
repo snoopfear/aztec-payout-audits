@@ -19,7 +19,7 @@
 - Recipient: 0x7535A04Ba04152f5446e2e94D6dd6d9F8643D246
 - Amount: 262.5 AZTEC (262500000000000000000)
 - Tx: 0x3b670309d665c7e0e3b8dc60969a2544e7d65a167c372b9e3fad3e385f367aef
-- Receipt: payout-state/receipts/0x3b670309d665c7e0e3b8dc60969a2544e7d65a167c372b9e3fad3e385f367aef.receipt.txt
+- Receipt: not published; verify by tx hash on-chain
 - Next payout should start from: 4017
 
 ## Paid payout 4017-4225
@@ -28,8 +28,8 @@
 - Range: 4017-4225
 - Provider ID: 25
 - Audit: runs/epoch-4017-4225-mqtl7gkp-3ab058.json
-- Final reconciliation: payout-state/reconcile/reconcile-4017-4225-final.json
-- Done record: payout-state/paid-4017-4225.done.json
+- Final reconciliation: runs/epoch-4017-4225-final-reconciliation.json
+- Done record: runs/epoch-4017-4225-done.json
 - Paid transfers: 18 / 18
 - Delegator payout total: 130,987.5 AZTEC
 - Operator retention according to audit: 43,662.5 AZTEC
@@ -51,3 +51,17 @@
 - Operator retention according to audit: 48,125 AZTEC
 - Transfer mode: direct ERC20.transfer from encrypted Foundry account
 - Next payout should start from: 4486
+
+## Paid payout 4486-4789
+
+- Status: paid / final on-chain reconciliation clean
+- Range: 4486-4789
+- Provider ID: 25
+- Audit: runs/epoch-4486-4789-mrf0z3qc-b0692e.json
+- Final reconciliation: runs/epoch-4486-4789-final-reconciliation.json
+- Done record: runs/epoch-4486-4789-done.json
+- Paid transfers: 17 / 17
+- Delegator payout total: 145,950 AZTEC
+- Operator retention according to audit: 48,650 AZTEC
+- Transfer mode: direct ERC20.transfer from encrypted Foundry account
+- Next payout should start from: 4790
