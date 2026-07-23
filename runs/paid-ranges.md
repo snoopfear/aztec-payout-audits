@@ -65,3 +65,38 @@
 - Operator retention according to audit: 48,650 AZTEC
 - Transfer mode: direct ERC20.transfer from encrypted Foundry account
 - Next payout should start from: 4790
+
+
+## Paid payout V4 4790-4951
+
+- Status: paid / final on-chain reconciliation clean
+- Rollup: `0xAe2001f7e21d5EcABf6234E9FDd1E76F50F74962`
+- Range: `4790-4951`
+- Provider ID: `25`
+- Original nominal audit: `runs/epoch-4790-4951-mrxk946d-f1b3c9.json`
+- Corrected audit used for payment: `runs/epoch-4790-4951-mrxk946d-f1b3c9-v4-reward-corrected.json`
+- Reward reconstruction: `runs/v4-epoch-4790-4951-reward-reconstruction.json`
+- Final reconciliation: `runs/v4-epoch-4790-4951-final-reconciliation.json`
+- Done record: `runs/v4-epoch-4790-4951-done.json`
+- Paid transfers: `16 / 16`
+- Delegator payout total: `76,387.5 AZTEC`
+- Fixed operator retention: `25,462.5 AZTEC`
+- Zero-fixed-reward checkpoints: `116703`, `116709`, `116710`, `116716`
+- Transfer mode: direct `ERC20.transfer`
+- V4 payout sequence complete; V5 uses a separate epoch sequence.
+
+
+## Paid payout V5 0-872
+
+- Status: paid / final on-chain reconciliation clean
+- Rollup: `0x91ff8bbd8ebb07893010d50a48a1609e5ebd8e34`
+- Range: `0-872`
+- Provider ID: `25`
+- Audit: `runs/epoch-0-872-mrxmt825-56fc6d.json`
+- Final reconciliation: `runs/v5-epoch-0-872-final-reconciliation.json`
+- Done record: `runs/v5-epoch-0-872-done.json`
+- Paid transfers: `18 / 18`
+- Delegator payout total: `136,500 AZTEC`
+- Fixed operator retention: `45,500 AZTEC`
+- Transfer mode: direct `ERC20.transfer`
+- Next V5 payout should start from epoch `873`.

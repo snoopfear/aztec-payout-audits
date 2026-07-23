@@ -1,0 +1,2714 @@
+{
+  "auditFile": "runs/epoch-4790-4951-mrxk946d-f1b3c9.json",
+  "fromCheckpoint": 111753,
+  "toCheckpoint": 116725,
+  "rewardDistributor": "0x3d6a1b00c830c5f278fc5dfb3f6ff0b74db6dfe0",
+  "sequencerBps": 7000,
+  "commissionBps": 2500,
+  "nominalPerCheckpointWei": "350000000000000000000",
+  "proofBatches": [
+    {
+      "blockNumber": 25502716,
+      "txHash": "0x836fcb0e6f21a06191a10769e6fd96519731e4b6fc026df24027c5e1015ed93e",
+      "previousProvenCheckpoint": 111752,
+      "endCheckpoint": 111784,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25502907,
+      "txHash": "0x362e6b92f1f7ff9e8d4acec32c60b51f6183893559fbcdd61155cec632e698b5",
+      "previousProvenCheckpoint": 111784,
+      "endCheckpoint": 111816,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25503099,
+      "txHash": "0x55dd3250b8dfe39adbdfe6a46728e50d470e2c1e38d606ed5b18dfc8b1bed0e3",
+      "previousProvenCheckpoint": 111816,
+      "endCheckpoint": 111848,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25503290,
+      "txHash": "0x19bda7a24190e4db07c1b075590669d9d30cb4251c1c3dbcf65d9fecb953eca4",
+      "previousProvenCheckpoint": 111848,
+      "endCheckpoint": 111880,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25503483,
+      "txHash": "0x622285902bd823eeda4a2ab2d087c93a7fb0873fb0e2dac048d49d307455f0ad",
+      "previousProvenCheckpoint": 111880,
+      "endCheckpoint": 111909,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25503674,
+      "txHash": "0xdcd9971b37a98fc9d3c44d13c9b519fb8e8248d080a5af6398a3b19be7225692",
+      "previousProvenCheckpoint": 111909,
+      "endCheckpoint": 111941,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25503866,
+      "txHash": "0xfdc13cec4af865c131c439c958941f26308cdac6d987195e43cc3fafcbd4521c",
+      "previousProvenCheckpoint": 111941,
+      "endCheckpoint": 111972,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25504058,
+      "txHash": "0xf90779cd14542a829a7bdc92becc3c97386165525286cf90dafe140bcde570f1",
+      "previousProvenCheckpoint": 111972,
+      "endCheckpoint": 112004,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25504249,
+      "txHash": "0xf2df5a1834d87e6b4e40d1ddbeda9b534c593a807c34c0b8c945651e7365c102",
+      "previousProvenCheckpoint": 112004,
+      "endCheckpoint": 112036,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 6,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 3,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25504441,
+      "txHash": "0x1b1e153bc064a3ee0371e864a5ac5ed8930ea112005e85de1c6af2b565460404",
+      "previousProvenCheckpoint": 112036,
+      "endCheckpoint": 112068,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25504632,
+      "txHash": "0x6078c6c701a5850a09d8a774f2d4f449310166a4c861b830d4b9c72c51ee6c20",
+      "previousProvenCheckpoint": 112068,
+      "endCheckpoint": 112098,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 1,
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25504823,
+      "txHash": "0xdc6f8aabf89c0c892812c58cea4ee5681da37d8eaffaba7698d7877a613069ee",
+      "previousProvenCheckpoint": 112098,
+      "endCheckpoint": 112129,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 5
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25505016,
+      "txHash": "0x8188b9e4a31983ef14442091cfedfb9f53a1e439c036866baa90216dd66d809f",
+      "previousProvenCheckpoint": 112129,
+      "endCheckpoint": 112161,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25505207,
+      "txHash": "0xfa935e8ab60a66073a1116830ad028c44c8779f817fed1ecf24eb2c430497239",
+      "previousProvenCheckpoint": 112161,
+      "endCheckpoint": 112193,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25505400,
+      "txHash": "0x65edf7043df9ce24a15dac9a24c42624b68aeb1f91dbf7d514946f21c75e1ef5",
+      "previousProvenCheckpoint": 112193,
+      "endCheckpoint": 112225,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25505591,
+      "txHash": "0xc897c2f7ccfcc241c986d3059b61cf3ed60eb8e20df3446fc6694b7ac84ce32e",
+      "previousProvenCheckpoint": 112225,
+      "endCheckpoint": 112257,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25505781,
+      "txHash": "0x4c07d2e3c75c10d5440b491aa41a9c00d9aac14e983d3dfdc86d5a9e721d5066",
+      "previousProvenCheckpoint": 112257,
+      "endCheckpoint": 112289,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25505975,
+      "txHash": "0xc4d0ceaf037f4e8d6fd8dea4ab85b1ce576e999d0345692950fb5f0670af86f5",
+      "previousProvenCheckpoint": 112289,
+      "endCheckpoint": 112321,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25506166,
+      "txHash": "0x7efe05d5d8363a1ab763fbdcd602755764163f8b32d0309dda1f70538d7d780a",
+      "previousProvenCheckpoint": 112321,
+      "endCheckpoint": 112353,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25506357,
+      "txHash": "0x6e5ac90fd443d9a63f15bc5e237c3740ca2754812301bcd82ca21f80ab47fafb",
+      "previousProvenCheckpoint": 112353,
+      "endCheckpoint": 112385,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25506549,
+      "txHash": "0xa35cb51383a0b2df6601a63601d0022d04b9fc4e3fe06feb0461d35ae149ab6d",
+      "previousProvenCheckpoint": 112385,
+      "endCheckpoint": 112415,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25506740,
+      "txHash": "0x682805c86ae8336fe011540793592105c15b5f94c175265b93c8263e48bb8619",
+      "previousProvenCheckpoint": 112415,
+      "endCheckpoint": 112447,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25506933,
+      "txHash": "0x5e97f93c213a60673be92ad485357a59d9dbfb15e35534375919dc10c6cdb253",
+      "previousProvenCheckpoint": 112447,
+      "endCheckpoint": 112479,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25507125,
+      "txHash": "0xbdd2930cfd2a8d47039a45f1233532414a4cfd3087eca865048beebd696796e5",
+      "previousProvenCheckpoint": 112479,
+      "endCheckpoint": 112509,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25507318,
+      "txHash": "0xf20a2d0f8dc784536116637fd012927a8b8a1a4f10391a72c067223949f3fd38",
+      "previousProvenCheckpoint": 112509,
+      "endCheckpoint": 112541,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25507509,
+      "txHash": "0xb3a32cf8d2be83abd15901cc08fbe2d2a67e106fca9573986e70bd62ed9973d5",
+      "previousProvenCheckpoint": 112541,
+      "endCheckpoint": 112573,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 4,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25507700,
+      "txHash": "0x519f289587238730118f625574829ebc7c34619badb5269f6690bc077474538d",
+      "previousProvenCheckpoint": 112573,
+      "endCheckpoint": 112604,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25507892,
+      "txHash": "0x21661911faf149d2323c69804c11086afb81b33df9154f546fc9eeaa41bd1ac0",
+      "previousProvenCheckpoint": 112604,
+      "endCheckpoint": 112636,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25508084,
+      "txHash": "0x552403df90c89a6b6cb8b44471dffd05b38d4f625897789ea2bbe9ebc39bc2fe",
+      "previousProvenCheckpoint": 112636,
+      "endCheckpoint": 112667,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25508275,
+      "txHash": "0x62163b7657563105716707658d48b933752abd44e4b6d12e266b9256b716fd23",
+      "previousProvenCheckpoint": 112667,
+      "endCheckpoint": 112699,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25508466,
+      "txHash": "0x4800c1755f93ca4fc91e47ed537e3d8b26cd8441cb2cbe504d0d31a9412a1fc7",
+      "previousProvenCheckpoint": 112699,
+      "endCheckpoint": 112731,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25508656,
+      "txHash": "0x3ecc420c7b89a75f7eb29b62b28eca49a024440df27451b2b784e51a1b70125d",
+      "previousProvenCheckpoint": 112731,
+      "endCheckpoint": 112763,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25508846,
+      "txHash": "0x7fba62a052d65aaf961678e28851ab4fbde7c1ce36948a58b8c243386a67e9d2",
+      "previousProvenCheckpoint": 112763,
+      "endCheckpoint": 112794,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25509037,
+      "txHash": "0xadb3f8514fc9f8f049d18dd1179ff0e13116d5506d03f67e01b239a236b53dda",
+      "previousProvenCheckpoint": 112794,
+      "endCheckpoint": 112824,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25509228,
+      "txHash": "0xa8b9abd8a493bd41a97675578c6aa420fdc85cb4849defbbb5445f1f3c837fe9",
+      "previousProvenCheckpoint": 112824,
+      "endCheckpoint": 112856,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25509418,
+      "txHash": "0xc162c2a3a87f6e3820a38a9861dee61394c6f568d1e17454face1b2082d821fb",
+      "previousProvenCheckpoint": 112856,
+      "endCheckpoint": 112888,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25509609,
+      "txHash": "0x85eaca35b2281b3ef5229d7e29b2f918979bd33b1021f54d8fbb749711a556b7",
+      "previousProvenCheckpoint": 112888,
+      "endCheckpoint": 112920,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25509801,
+      "txHash": "0x82a6de217894282eafb98ba903d2db6a367a07288e96d9d6ee42caaacfa08dbd",
+      "previousProvenCheckpoint": 112920,
+      "endCheckpoint": 112952,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25509993,
+      "txHash": "0x792f86b14f139bf4614fa666b3acfcff4916d40554b9f8118630a45a0600ef7c",
+      "previousProvenCheckpoint": 112952,
+      "endCheckpoint": 112984,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25510185,
+      "txHash": "0x76e0bcee22c3b0dd0f03c988285f226b34854d8e876216ce317313bdf3e6b68e",
+      "previousProvenCheckpoint": 112984,
+      "endCheckpoint": 113016,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25510378,
+      "txHash": "0x33baf9f5d3eb35e89d9be9e50b268e2c88db74e17f1c546a7868721f35051332",
+      "previousProvenCheckpoint": 113016,
+      "endCheckpoint": 113048,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25510569,
+      "txHash": "0xbfc85a0fd9aec0ed019581f679b20fb6cc71b1fd6ffffa216bd70afe0a828ecf",
+      "previousProvenCheckpoint": 113048,
+      "endCheckpoint": 113080,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25510759,
+      "txHash": "0x908a54ca8a3f413eb4217483a0db310a723aa5225e4003951623274a05e43493",
+      "previousProvenCheckpoint": 113080,
+      "endCheckpoint": 113112,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25510951,
+      "txHash": "0x2a69c311b3cd6c14787bf2e9127d2a4213c3c39e297594a2c800ec2a5b12f6a3",
+      "previousProvenCheckpoint": 113112,
+      "endCheckpoint": 113144,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25511140,
+      "txHash": "0xbd1922e04489d2aaa2b280e49389cf9af92853465d2172c12c87e55e99d7ea46",
+      "previousProvenCheckpoint": 113144,
+      "endCheckpoint": 113176,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25511332,
+      "txHash": "0x2e0f8b2f63ac8abf0ed350dc4fe117e4ca45b91a2a9ee0950fa69a98e313bb92",
+      "previousProvenCheckpoint": 113176,
+      "endCheckpoint": 113208,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 4
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25511524,
+      "txHash": "0x4eb3a380806c100adc91af0f328918ae87058af90eca336527ab50829c198ad9",
+      "previousProvenCheckpoint": 113208,
+      "endCheckpoint": 113240,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 6,
+      "ourDelegators": {
+        "0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE": 3,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25511716,
+      "txHash": "0xf2b1cf18a99b4810a6ff41c1792e18a7dbffe0335115512232b2dc99410ee41d",
+      "previousProvenCheckpoint": 113240,
+      "endCheckpoint": 113271,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25511908,
+      "txHash": "0x829fc5fa3120a2c6e59918607c0473abd122ed09467b15e17d58a0450e031e75",
+      "previousProvenCheckpoint": 113271,
+      "endCheckpoint": 113302,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25512099,
+      "txHash": "0x2f6f4fdd390630bd8b7f9c554cf26bd1c9482f3e6baa93d1fe33c0c921af0df0",
+      "previousProvenCheckpoint": 113302,
+      "endCheckpoint": 113334,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25512289,
+      "txHash": "0x4faaa4cf95a237ae575c594f0b19fe22610b3a4b4ed12877f776271f268d7173",
+      "previousProvenCheckpoint": 113334,
+      "endCheckpoint": 113366,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25512482,
+      "txHash": "0x1b3b8850190a044431d65a1b7a8de6b77a1d4ec5d22afaf80b8fd3f7bc6eaf7d",
+      "previousProvenCheckpoint": 113366,
+      "endCheckpoint": 113398,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25512671,
+      "txHash": "0x7b10d4bfcd408a0864ae0fca5b014bb068204a395f3ca4164c6289223a6e7e69",
+      "previousProvenCheckpoint": 113398,
+      "endCheckpoint": 113429,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25512861,
+      "txHash": "0x1ee20cb0731c016c313973fb643625a9e120faf6a3e7f19cc0382ade3a255d0f",
+      "previousProvenCheckpoint": 113429,
+      "endCheckpoint": 113461,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25513051,
+      "txHash": "0xd5c93b51d10184ea3b72df7159fee54901ccf7f490662ece7eb52b8f1ac90b5c",
+      "previousProvenCheckpoint": 113461,
+      "endCheckpoint": 113493,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25513240,
+      "txHash": "0x93c3c9e495ea7343b83e10c462f75daaa38c8c752297cb92b9680922f3d8e0b6",
+      "previousProvenCheckpoint": 113493,
+      "endCheckpoint": 113524,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25513434,
+      "txHash": "0x2bbce313050bd08fdd111c97276c9afedd8d65dcb395f22a5e0c9eb929260cd9",
+      "previousProvenCheckpoint": 113524,
+      "endCheckpoint": 113556,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25513624,
+      "txHash": "0xf1b68e5575830e84bbbefba0347624a501bf2b348e2f8d3841ced4c1600f0e04",
+      "previousProvenCheckpoint": 113556,
+      "endCheckpoint": 113587,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 6,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 2,
+        "0x0FEf682990c99003acf47CB9CD872b43544547c9": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25513816,
+      "txHash": "0x6c68af8e01bbd11378b611b823bc7f34b1266ff0e027cfb60d0795a95a170e56",
+      "previousProvenCheckpoint": 113587,
+      "endCheckpoint": 113619,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25514007,
+      "txHash": "0x318b6df2858d31a5d0e89ea7938fcd9cafd432abe17f5d4b8d4c2b9de1a18fa8",
+      "previousProvenCheckpoint": 113619,
+      "endCheckpoint": 113651,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25514198,
+      "txHash": "0x94505b0b3c67325e2795d8080722d62165cd8916ebc34b551ab2ce312ac89562",
+      "previousProvenCheckpoint": 113651,
+      "endCheckpoint": 113683,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0x0FEf682990c99003acf47CB9CD872b43544547c9": 2,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25514390,
+      "txHash": "0x0ae36369d64ee23b1e676c11f8dd2973db6f5d297792dc428cbcd5bd6a616f9f",
+      "previousProvenCheckpoint": 113683,
+      "endCheckpoint": 113715,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25514581,
+      "txHash": "0xd5d8fbcfd067afab009c0c11edb942aff498fe275dc70ce8813525758ad5d5ae",
+      "previousProvenCheckpoint": 113715,
+      "endCheckpoint": 113747,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25514770,
+      "txHash": "0x20d7d02c6ee49aa5f8595eb33300946badb45af934e7cf7e21c2e7943c0c41e2",
+      "previousProvenCheckpoint": 113747,
+      "endCheckpoint": 113778,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25514964,
+      "txHash": "0x9de9e3dd6335efe5830c6b7e22cc308ce7fc5cab2e1f844e7ade155c82890593",
+      "previousProvenCheckpoint": 113778,
+      "endCheckpoint": 113810,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25515155,
+      "txHash": "0x882184f1aca55febb1bde871983ed65f92010fe0cabb11794ee18a16dc1e9e2e",
+      "previousProvenCheckpoint": 113810,
+      "endCheckpoint": 113842,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25515346,
+      "txHash": "0x852ffe5f27e3f9caa77c3c6f9ed023c14fc927aa283358a6360c5b95902d532c",
+      "previousProvenCheckpoint": 113842,
+      "endCheckpoint": 113874,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25515536,
+      "txHash": "0x0808dd5af9130f6f767ff30e3ea8bef09025f9aa1c713795613c86b27b5148e6",
+      "previousProvenCheckpoint": 113874,
+      "endCheckpoint": 113905,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25515727,
+      "txHash": "0x891ab3e0be8cd1f51129695831373c2aa428e67ebb320b1b549a2c9d398e1890",
+      "previousProvenCheckpoint": 113905,
+      "endCheckpoint": 113937,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25515922,
+      "txHash": "0x6c3a9cde3f12ac99dde05467b8a42478f60a09263c4d9068d1a4835fd9b5e451",
+      "previousProvenCheckpoint": 113937,
+      "endCheckpoint": 113966,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25516110,
+      "txHash": "0x1ebb6939473732b20706da62b2bd8f5b39007158c9e72e944b744f4655ee5d2e",
+      "previousProvenCheckpoint": 113966,
+      "endCheckpoint": 113998,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25516302,
+      "txHash": "0x671397deff5b15a2cf47f729355095264bbf4f654a1aa714453201d4eb68aa0d",
+      "previousProvenCheckpoint": 113998,
+      "endCheckpoint": 114030,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x99a21182389f36F0bBE29eB1F3E15c83d641865b": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25516491,
+      "txHash": "0x372f065afdc2ece72f7cb4eb06c15bf0e2e16bea54ede09bdd267b777b61f1a7",
+      "previousProvenCheckpoint": 114030,
+      "endCheckpoint": 114062,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25516682,
+      "txHash": "0x56630f5bcac73cb6ad5722aff36524c4defb230c551f9934cd2a00c003463c0b",
+      "previousProvenCheckpoint": 114062,
+      "endCheckpoint": 114094,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25516872,
+      "txHash": "0x300c1134ee0eb4f238713b68b67353bba13e5e2ac98799a86c4334fb3eeba169",
+      "previousProvenCheckpoint": 114094,
+      "endCheckpoint": 114125,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x979A6889d501044b3b8678c4D33E926124EE7F35": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25517063,
+      "txHash": "0x7db9bb70c1ddf3b56e31edda699b4d76f14ed17b68850eb03a51a1a151c78ed7",
+      "previousProvenCheckpoint": 114125,
+      "endCheckpoint": 114156,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25517255,
+      "txHash": "0xd3360e6991b2568ec34ee551d7a64ffbe30fc330666fb0a9aa11aaae23756b63",
+      "previousProvenCheckpoint": 114156,
+      "endCheckpoint": 114188,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25517446,
+      "txHash": "0xe96963d08e7374905295d299efc2e1c32798ac8a12f6983f538815d9fa8cd615",
+      "previousProvenCheckpoint": 114188,
+      "endCheckpoint": 114219,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25517636,
+      "txHash": "0x0b6e2bb70d466af58be88387a39e114dca0744e4fcc16778111f4b8bc1ec6b49",
+      "previousProvenCheckpoint": 114219,
+      "endCheckpoint": 114250,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25517827,
+      "txHash": "0xcd5b0c11a12d139fe5e5a8490bb6105374ab70ab68a173735f36bbf635a71cdb",
+      "previousProvenCheckpoint": 114250,
+      "endCheckpoint": 114276,
+      "addedCheckpoints": 26,
+      "rewardDistributorTransferWei": "13000000000000000000000",
+      "sequencerPoolWei": "9100000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25518018,
+      "txHash": "0x687d370ae6842a011f200260169c4f760bcb3ca62a2006fda7eb6ff8f84d4860",
+      "previousProvenCheckpoint": 114276,
+      "endCheckpoint": 114305,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 4,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25518209,
+      "txHash": "0xa37413aa12ad2d16271886b7cf0cb83a108f4b902c8f755f843ba8811c0627c7",
+      "previousProvenCheckpoint": 114305,
+      "endCheckpoint": 114337,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25518402,
+      "txHash": "0x64ad34db11e2f0036fe9064ce90fbe32e9b57ce80c2a0109d75c79a77a2cfaae",
+      "previousProvenCheckpoint": 114337,
+      "endCheckpoint": 114369,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25518593,
+      "txHash": "0x32a4e9922c4899e985348934c1012e07311e92a3437cb758e0289b312a915b0b",
+      "previousProvenCheckpoint": 114369,
+      "endCheckpoint": 114401,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 2,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25518785,
+      "txHash": "0x9f8b862ad8ee037973a448045aabe0f465b41c23081764b527ff478109d10ecc",
+      "previousProvenCheckpoint": 114401,
+      "endCheckpoint": 114431,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2,
+        "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25518977,
+      "txHash": "0x8180cc4f84d76d852339d744c791b7b177e3d131b0dcdc5f65b95807a3c03150",
+      "previousProvenCheckpoint": 114431,
+      "endCheckpoint": 114463,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25519168,
+      "txHash": "0x39d9d1812ca656f1f2e8e1a55006d9a0e3726b32b91a7e7531ea7d8841b459f5",
+      "previousProvenCheckpoint": 114463,
+      "endCheckpoint": 114495,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25519359,
+      "txHash": "0x79ada91d810cb7d914d8f2968f667a9b8f80e32c61540ad26606d9d7a0196eef",
+      "previousProvenCheckpoint": 114495,
+      "endCheckpoint": 114526,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25519551,
+      "txHash": "0xf4927efdf0eba089d66ac751f825ea82199e7c9c9543ee242ae624c7de3de89a",
+      "previousProvenCheckpoint": 114526,
+      "endCheckpoint": 114558,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25519743,
+      "txHash": "0x9eb96945c4614ecb6b29d8922837fe0e1f63da39859d7f8313ab4e437b058bc4",
+      "previousProvenCheckpoint": 114558,
+      "endCheckpoint": 114588,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25519934,
+      "txHash": "0x7efbb460da00306d045ae9fab08eff0ee40096401bdc947a9955c983f97f576d",
+      "previousProvenCheckpoint": 114588,
+      "endCheckpoint": 114620,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25520126,
+      "txHash": "0x651843a70675774deffcf538c387e7b5a11ca65d1783849bec0ac2df2a83c8ac",
+      "previousProvenCheckpoint": 114620,
+      "endCheckpoint": 114652,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25520318,
+      "txHash": "0x30d04ded56a22796d0dde38a6996e30dd3e39800f12e032085cdb3ac01d0076b",
+      "previousProvenCheckpoint": 114652,
+      "endCheckpoint": 114684,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25520509,
+      "txHash": "0x516b62cb68f9be2919010307f94bb9a6b54a507c76c1fa16574d199a9166ac19",
+      "previousProvenCheckpoint": 114684,
+      "endCheckpoint": 114716,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25520701,
+      "txHash": "0x71446c20eb7f3c979c55b320ddb452b0e3df76260c64750024d86765281f9ba7",
+      "previousProvenCheckpoint": 114716,
+      "endCheckpoint": 114748,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x0c6AD8D10c58F4e412bB41738648502F5C53d70A": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25520894,
+      "txHash": "0xf4f62024f527379c16478f9c58c87be4a87098658c97cb0ac751316e6d36a7b2",
+      "previousProvenCheckpoint": 114748,
+      "endCheckpoint": 114777,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25521083,
+      "txHash": "0xe97d0a706671be6abc9f89c34de055dea4428ac282e3433e31dfce6c5d483125",
+      "previousProvenCheckpoint": 114777,
+      "endCheckpoint": 114808,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25521274,
+      "txHash": "0xb577951fe1e679e3bd703549481f577850183c37d53e0d335bc2081cd20b3686",
+      "previousProvenCheckpoint": 114808,
+      "endCheckpoint": 114837,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25521466,
+      "txHash": "0xa7220200c209e143d12cf1e02b13f9f77585e20bbc9de745000d435360d5b9f7",
+      "previousProvenCheckpoint": 114837,
+      "endCheckpoint": 114869,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25521656,
+      "txHash": "0x2965b956c61ff13a72a42edd5e167bbe2d46b6b07e6fe0447845804af85896ce",
+      "previousProvenCheckpoint": 114869,
+      "endCheckpoint": 114900,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25521848,
+      "txHash": "0xe0d7469b62270e0a313cbe7193654484522734f09a602829fee35e3786680948",
+      "previousProvenCheckpoint": 114900,
+      "endCheckpoint": 114932,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25522038,
+      "txHash": "0xa4989a1598f8f4fc6cdbedc8ec228b036dd5e8085789940f326c9b79c1def522",
+      "previousProvenCheckpoint": 114932,
+      "endCheckpoint": 114964,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25522227,
+      "txHash": "0x14d419dd7d9d13fbbee95cc031d95e76e47068546dd89ce1a750c85e1dd9a953",
+      "previousProvenCheckpoint": 114964,
+      "endCheckpoint": 114996,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25522415,
+      "txHash": "0xc02bf321d38f6f0d6a09bb434f135de0b2046ea0c0c30a1f97829753aae6cd4a",
+      "previousProvenCheckpoint": 114996,
+      "endCheckpoint": 115028,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25522606,
+      "txHash": "0xfc39838c5b28ad9c2a5cf1044b98d0533851da595e5f9a40f4d1a1b9de0b3c38",
+      "previousProvenCheckpoint": 115028,
+      "endCheckpoint": 115057,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25522799,
+      "txHash": "0xaf7d5593bf68d2a1411d128acdd90fdad91769c3c26b5d4b6e2cda9b4570888f",
+      "previousProvenCheckpoint": 115057,
+      "endCheckpoint": 115087,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25522991,
+      "txHash": "0xd909637a164f3fd237968841c72edc2047ebf537dd51bce8a13b82a0a2003dcf",
+      "previousProvenCheckpoint": 115087,
+      "endCheckpoint": 115118,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25523181,
+      "txHash": "0xa78d2fec2fb68f8a89cd3c581aa4f147d73762559bb22a9ce80bc3a8b564a3b1",
+      "previousProvenCheckpoint": 115118,
+      "endCheckpoint": 115150,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25523369,
+      "txHash": "0x83356d28c6904e70b8db7470ad008900745a06b7904da02aa293e94f10f33f9a",
+      "previousProvenCheckpoint": 115150,
+      "endCheckpoint": 115182,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25523561,
+      "txHash": "0x9ae61673d7fb008aea6429be7c4d6373602fe05dc1f929075936bfe0313a1d9e",
+      "previousProvenCheckpoint": 115182,
+      "endCheckpoint": 115214,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25523752,
+      "txHash": "0xf76722de94db06452d5870e454e228fcf4152f023f070cba051159ac4c82e50d",
+      "previousProvenCheckpoint": 115214,
+      "endCheckpoint": 115246,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25523944,
+      "txHash": "0x591e127d3d1400c49a6153ef21cfad8c90d8da2b8e5dd5251bcdd5f5a135aacc",
+      "previousProvenCheckpoint": 115246,
+      "endCheckpoint": 115278,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25524134,
+      "txHash": "0x70e417d979c1b2bee426c0ff37ccc765226616785b907c412e23f3572d04020a",
+      "previousProvenCheckpoint": 115278,
+      "endCheckpoint": 115310,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 9,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 4,
+        "0x6E61F5486c688d11743C313F083415fDaC9b0075": 1,
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 2,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25524325,
+      "txHash": "0xb5084bd70921835bb451845986c2c6bcbe477c2ced66438062d760f3ebb27c96",
+      "previousProvenCheckpoint": 115310,
+      "endCheckpoint": 115342,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x979A6889d501044b3b8678c4D33E926124EE7F35": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25524521,
+      "txHash": "0x6e301c20313ba6904fcfb2cb71e6e8a4d77e6125f7a8b9fe79340a33c54a6236",
+      "previousProvenCheckpoint": 115342,
+      "endCheckpoint": 115372,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25524709,
+      "txHash": "0x88ba62e6c87006823a0125fd612008857681fe174395fe51d80be9190af58b8f",
+      "previousProvenCheckpoint": 115372,
+      "endCheckpoint": 115397,
+      "addedCheckpoints": 25,
+      "rewardDistributorTransferWei": "12500000000000000000000",
+      "sequencerPoolWei": "8750000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25524899,
+      "txHash": "0x567f318f9e9f70adf43fb34bdde197977688090a66b8711f0382e77928c217ec",
+      "previousProvenCheckpoint": 115397,
+      "endCheckpoint": 115427,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25525090,
+      "txHash": "0x418991666cd8099a84dcca92e0b3e907ed43cf7e109ca99bc0a45137ff2f43c1",
+      "previousProvenCheckpoint": 115427,
+      "endCheckpoint": 115459,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25525282,
+      "txHash": "0x34176055256aa86b509e83649dfd65384b7f6bc4d6b33780d1a2602f8ea9e4ed",
+      "previousProvenCheckpoint": 115459,
+      "endCheckpoint": 115489,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25525477,
+      "txHash": "0x29015a1e381222f66b9cec0579f22c712a41f56ecc191f7885d8dc8b5ec39a4d",
+      "previousProvenCheckpoint": 115489,
+      "endCheckpoint": 115515,
+      "addedCheckpoints": 26,
+      "rewardDistributorTransferWei": "13000000000000000000000",
+      "sequencerPoolWei": "9100000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25525664,
+      "txHash": "0x4d75ce09164e37250b0f4aecdb8aad1bb7d28bfecb6ae68ec6054b926c9d8e68",
+      "previousProvenCheckpoint": 115515,
+      "endCheckpoint": 115547,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25525855,
+      "txHash": "0x52a8a1ba162ee2509b7e2fc4ea77fb142838172e1b4af6aefdd008ffe855835f",
+      "previousProvenCheckpoint": 115547,
+      "endCheckpoint": 115579,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25526052,
+      "txHash": "0x53f1633a09ef79f35ce9d9d2d79a1c1a458c88026dd09fc193ec933251981047",
+      "previousProvenCheckpoint": 115579,
+      "endCheckpoint": 115608,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25526242,
+      "txHash": "0xbeb2bf5f1820f7625a1ed86b48e6667377f2f2524f1b223316bddc37e02e4dd4",
+      "previousProvenCheckpoint": 115608,
+      "endCheckpoint": 115636,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25526430,
+      "txHash": "0xcc78b62caec12c24357d4d57a6995f645613f55a71e3bf794012fd64b271ef79",
+      "previousProvenCheckpoint": 115636,
+      "endCheckpoint": 115666,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25526622,
+      "txHash": "0x8e6d634fb2a91433b869060ae5bbbb3c15c8255ba63e0151cbe962789b0a1950",
+      "previousProvenCheckpoint": 115666,
+      "endCheckpoint": 115697,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0x6E61F5486c688d11743C313F083415fDaC9b0075": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25526813,
+      "txHash": "0xd4d947dfaf10dd5a3deeecbbfd20ffef8df4d4ac9c4bcaa26336c5a63eed6985",
+      "previousProvenCheckpoint": 115697,
+      "endCheckpoint": 115729,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0x4b294AC8048f7F9509750d3e802447c648Be53c9": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25527004,
+      "txHash": "0x5aa9f3f71ba73805c7f39d42ea1eb609d3335747eea6c26d2905e4fc07460365",
+      "previousProvenCheckpoint": 115729,
+      "endCheckpoint": 115757,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25527197,
+      "txHash": "0x2902f3cf52903aedc4d54791747a8912760c99efc9e673cf63bac0bea2e59894",
+      "previousProvenCheckpoint": 115757,
+      "endCheckpoint": 115785,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25527388,
+      "txHash": "0x28c5d8811b69598b0acbbf43f5674795e15839e5e80eaf1b5609fff57b9d5ab6",
+      "previousProvenCheckpoint": 115785,
+      "endCheckpoint": 115816,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25527580,
+      "txHash": "0xdc635361859363a5e8d37496f04b03bf8ad278f50053449ba680f3698e9378d1",
+      "previousProvenCheckpoint": 115816,
+      "endCheckpoint": 115848,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25527771,
+      "txHash": "0x08c83668e43d6d87b992ca4830f284c5b53a3d1db4c9e244f1f998d4e5ba6e14",
+      "previousProvenCheckpoint": 115848,
+      "endCheckpoint": 115880,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25527961,
+      "txHash": "0x544a4f29c0adcaeba847a282e587cde156c7b97390342e1fe2aa385b6b7183c0",
+      "previousProvenCheckpoint": 115880,
+      "endCheckpoint": 115908,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0x0c6AD8D10c58F4e412bB41738648502F5C53d70A": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25528152,
+      "txHash": "0x7bb0b133031a9110409eadd2fe925ed1368f839bd12b37d3006ee80cc57643c0",
+      "previousProvenCheckpoint": 115908,
+      "endCheckpoint": 115940,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25528345,
+      "txHash": "0xedeedbec321c0611d972c9e3921dab709b1bbd279c18237cce78e6a0b7c24a9a",
+      "previousProvenCheckpoint": 115940,
+      "endCheckpoint": 115971,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25528537,
+      "txHash": "0xeaee23bc1aca6d1d29f9f7fb0a7c59b2f731903855cb28cdb6063b7a30434aa1",
+      "previousProvenCheckpoint": 115971,
+      "endCheckpoint": 116002,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25528727,
+      "txHash": "0x9d9708c25e6ccc266672cb12f950e041104479eb9e4f8880f5a0cd4e304d3552",
+      "previousProvenCheckpoint": 116002,
+      "endCheckpoint": 116031,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25528919,
+      "txHash": "0xe6699c74d29963e90a5849c6725d77c35ef14b1ac2dfd9d4aa3ea3d163b6ea52",
+      "previousProvenCheckpoint": 116031,
+      "endCheckpoint": 116063,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25529110,
+      "txHash": "0xef868ce7b2806a5d5b86dc45f4ca3e1aa5ee9452248f105aa320f19a54c58b31",
+      "previousProvenCheckpoint": 116063,
+      "endCheckpoint": 116094,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25529302,
+      "txHash": "0x2fd3cf3155d2b989690074beaec5ff5d6508545b889b20e2940b7d68e2f146d3",
+      "previousProvenCheckpoint": 116094,
+      "endCheckpoint": 116126,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25529497,
+      "txHash": "0xec508a4af5c0780fdc098396439bab3661614a7095bb42f3ea350a4e4f87d688",
+      "previousProvenCheckpoint": 116126,
+      "endCheckpoint": 116157,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25529692,
+      "txHash": "0x89ee381731c31e3ff4605a8b160cdf25cf6307e6d132cb968b3cbc6f74ab8357",
+      "previousProvenCheckpoint": 116157,
+      "endCheckpoint": 116184,
+      "addedCheckpoints": 27,
+      "rewardDistributorTransferWei": "13500000000000000000000",
+      "sequencerPoolWei": "9450000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 1,
+      "ourDelegators": {
+        "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25529875,
+      "txHash": "0x779eafb8f7ecdf816c41bb9c8e4c6e8bb9e8e9b1d43e18ef914d4de2f4146cde",
+      "previousProvenCheckpoint": 116184,
+      "endCheckpoint": 116208,
+      "addedCheckpoints": 24,
+      "rewardDistributorTransferWei": "12000000000000000000000",
+      "sequencerPoolWei": "8400000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25530067,
+      "txHash": "0x9ea8fa53650bf0066b3be03f79698edba557d43b559227496ffa13edb75e0276",
+      "previousProvenCheckpoint": 116208,
+      "endCheckpoint": 116238,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x489DB05faD6aaC6F5be04b3a0D91c54Cb831f5ce": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25530258,
+      "txHash": "0x08fcf23f75a98bc6fa7a96dd8d50980626952f379e96e779528a5b01a9b8f310",
+      "previousProvenCheckpoint": 116238,
+      "endCheckpoint": 116266,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 5,
+      "ourDelegators": {
+        "0xa76147B3e2593951742813bcC7AAEb3E95ceB127": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 3,
+        "0x04657289097b187a8EB62B11FEb542f0CE7D0c26": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25530450,
+      "txHash": "0x7e9c50eb904e5c77358579bca52ba4423ece6c5b2d3cb467a3004b5efdc8e522",
+      "previousProvenCheckpoint": 116266,
+      "endCheckpoint": 116293,
+      "addedCheckpoints": 27,
+      "rewardDistributorTransferWei": "13500000000000000000000",
+      "sequencerPoolWei": "9450000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25530640,
+      "txHash": "0xb3df6c67c3500c2cd505a76c05cac57fadf66c8842adf07e9e1e8d0a0dd14378",
+      "previousProvenCheckpoint": 116293,
+      "endCheckpoint": 116321,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0x0c6AD8D10c58F4e412bB41738648502F5C53d70A": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25530833,
+      "txHash": "0x46ecf6e566c636eb119c14b20f35257b6729d28d94dba7a1a156716cef5e7f5c",
+      "previousProvenCheckpoint": 116321,
+      "endCheckpoint": 116347,
+      "addedCheckpoints": 26,
+      "rewardDistributorTransferWei": "13000000000000000000000",
+      "sequencerPoolWei": "9100000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25531024,
+      "txHash": "0xcf0b516582a6b04d6dd3d81040e7af4255db2e9632970f614f2da1517dae81d2",
+      "previousProvenCheckpoint": 116347,
+      "endCheckpoint": 116379,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25531216,
+      "txHash": "0x19e4d553abaa079bb66a9595be99537ac8a6b597aa90b205e4b3e4afaa36022c",
+      "previousProvenCheckpoint": 116379,
+      "endCheckpoint": 116409,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "15000000000000000000000",
+      "sequencerPoolWei": "10500000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25531406,
+      "txHash": "0x8be7259fa42d443ebb268cb00dd884770b4bb485450e18c7b3804df8e16ffa41",
+      "previousProvenCheckpoint": 116409,
+      "endCheckpoint": 116438,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25531597,
+      "txHash": "0x5bc9c9819dd6faa6b67218ff7b819d1d50bf8ec15f58e6e324b80aa173edc58a",
+      "previousProvenCheckpoint": 116438,
+      "endCheckpoint": 116467,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25531789,
+      "txHash": "0xbb03fbfd25b1026bb14242e774b5e3ec7c2e5820215820ae5944e68a8cf54336",
+      "previousProvenCheckpoint": 116467,
+      "endCheckpoint": 116495,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25531979,
+      "txHash": "0xf7b2daa2903db3dc42a7a12f8a95edd2f961cba8ff8a85b48db8d526344e2573",
+      "previousProvenCheckpoint": 116495,
+      "endCheckpoint": 116526,
+      "addedCheckpoints": 31,
+      "rewardDistributorTransferWei": "15500000000000000000000",
+      "sequencerPoolWei": "10850000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25532170,
+      "txHash": "0x17f064574f12912334d3ffcccc33aacc09c2b4bb1f891a9c80783bd98afbf5bc",
+      "previousProvenCheckpoint": 116526,
+      "endCheckpoint": 116555,
+      "addedCheckpoints": 29,
+      "rewardDistributorTransferWei": "14500000000000000000000",
+      "sequencerPoolWei": "10150000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0x426834AeCD8366D51538E98966a0FCf28957ca2e": 1,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25532369,
+      "txHash": "0x2f40d4676bf17a6bb781bf41b2d35b6687b9ffb3e221b5ce961f012000b6019a",
+      "previousProvenCheckpoint": 116555,
+      "endCheckpoint": 116581,
+      "addedCheckpoints": 26,
+      "rewardDistributorTransferWei": "13000000000000000000000",
+      "sequencerPoolWei": "9100000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 3,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 2,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25532553,
+      "txHash": "0xc41c983c3f946774102788b8ea6f6d68e07c5639419888772f88eb7dd1f22222",
+      "previousProvenCheckpoint": 116581,
+      "endCheckpoint": 116605,
+      "addedCheckpoints": 24,
+      "rewardDistributorTransferWei": "12000000000000000000000",
+      "sequencerPoolWei": "8400000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25532740,
+      "txHash": "0x6b98b7357c6d479de15d2e11cc2b56cb898c7fb54872c0209933ca81fe1d58c2",
+      "previousProvenCheckpoint": 116605,
+      "endCheckpoint": 116633,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 2,
+      "ourDelegators": {
+        "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25532931,
+      "txHash": "0x922c06a2606907d3bada07c6c5fb615ff308003d37d75e2b098b752e99e7f483",
+      "previousProvenCheckpoint": 116633,
+      "endCheckpoint": 116661,
+      "addedCheckpoints": 28,
+      "rewardDistributorTransferWei": "14000000000000000000000",
+      "sequencerPoolWei": "9800000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25533122,
+      "txHash": "0x0de6f372f98e72d02b02b12c4e63d08c43e565374cfb93a2392c393539b10807",
+      "previousProvenCheckpoint": 116661,
+      "endCheckpoint": 116693,
+      "addedCheckpoints": 32,
+      "rewardDistributorTransferWei": "16000000000000000000000",
+      "sequencerPoolWei": "11200000000000000000000",
+      "actualSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1,
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 1,
+        "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56": 2
+      },
+      "underfunded": false
+    },
+    {
+      "blockNumber": 25533317,
+      "txHash": "0x8821ec3bdee210f1ecd1f4a1e6c200bfee92fb8e2c91fa7401b328a90548a596",
+      "previousProvenCheckpoint": 116693,
+      "endCheckpoint": 116723,
+      "addedCheckpoints": 30,
+      "rewardDistributorTransferWei": "0",
+      "sequencerPoolWei": "0",
+      "actualSequencerRewardPerCheckpointWei": "0",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 4,
+      "ourDelegators": {
+        "0xCfdc7f77c37268c14293ebD466768F6068D99461": 3,
+        "0xa8E4689F15b3300F191C223500930A0dE2f4d705": 1
+      },
+      "underfunded": true
+    },
+    {
+      "blockNumber": 25533502,
+      "txHash": "0x82d23c492ca6c5b34ba17ea65a6edc0d15c74ec1ce8b3b6813348b231ba4a793",
+      "previousProvenCheckpoint": 116723,
+      "endCheckpoint": 116725,
+      "addedCheckpoints": 2,
+      "rewardDistributorTransferWei": "0",
+      "sequencerPoolWei": "0",
+      "actualSequencerRewardPerCheckpointWei": "0",
+      "nominalSequencerRewardPerCheckpointWei": "350000000000000000000",
+      "ourCheckpointCount": 0,
+      "ourDelegators": {},
+      "underfunded": true
+    }
+  ],
+  "correctedTransfers": [
+    {
+      "delegator": "0xa8E4689F15b3300F191C223500930A0dE2f4d705",
+      "grossFixedRewardWei": "41650000000000000000000",
+      "grossFixedRewardAztec": "41650",
+      "delegatorPayoutWei": "31237500000000000000000",
+      "delegatorPayoutAztec": "31237.5"
+    },
+    {
+      "delegator": "0xCfdc7f77c37268c14293ebD466768F6068D99461",
+      "grossFixedRewardWei": "24150000000000000000000",
+      "grossFixedRewardAztec": "24150",
+      "delegatorPayoutWei": "18112500000000000000000",
+      "delegatorPayoutAztec": "18112.5"
+    },
+    {
+      "delegator": "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56",
+      "grossFixedRewardWei": "14350000000000000000000",
+      "grossFixedRewardAztec": "14350",
+      "delegatorPayoutWei": "10762500000000000000000",
+      "delegatorPayoutAztec": "10762.5"
+    },
+    {
+      "delegator": "0x426834AeCD8366D51538E98966a0FCf28957ca2e",
+      "grossFixedRewardWei": "3850000000000000000000",
+      "grossFixedRewardAztec": "3850",
+      "delegatorPayoutWei": "2887500000000000000000",
+      "delegatorPayoutAztec": "2887.5"
+    },
+    {
+      "delegator": "0x04657289097b187a8EB62B11FEb542f0CE7D0c26",
+      "grossFixedRewardWei": "3850000000000000000000",
+      "grossFixedRewardAztec": "3850",
+      "delegatorPayoutWei": "2887500000000000000000",
+      "delegatorPayoutAztec": "2887.5"
+    },
+    {
+      "delegator": "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881",
+      "grossFixedRewardWei": "3150000000000000000000",
+      "grossFixedRewardAztec": "3150",
+      "delegatorPayoutWei": "2362500000000000000000",
+      "delegatorPayoutAztec": "2362.5"
+    },
+    {
+      "delegator": "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d",
+      "grossFixedRewardWei": "2450000000000000000000",
+      "grossFixedRewardAztec": "2450",
+      "delegatorPayoutWei": "1837500000000000000000",
+      "delegatorPayoutAztec": "1837.5"
+    },
+    {
+      "delegator": "0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE",
+      "grossFixedRewardWei": "2100000000000000000000",
+      "grossFixedRewardAztec": "2100",
+      "delegatorPayoutWei": "1575000000000000000000",
+      "delegatorPayoutAztec": "1575"
+    },
+    {
+      "delegator": "0x0c6AD8D10c58F4e412bB41738648502F5C53d70A",
+      "grossFixedRewardWei": "1750000000000000000000",
+      "grossFixedRewardAztec": "1750",
+      "delegatorPayoutWei": "1312500000000000000000",
+      "delegatorPayoutAztec": "1312.5"
+    },
+    {
+      "delegator": "0x0FEf682990c99003acf47CB9CD872b43544547c9",
+      "grossFixedRewardWei": "1050000000000000000000",
+      "grossFixedRewardAztec": "1050",
+      "delegatorPayoutWei": "787500000000000000000",
+      "delegatorPayoutAztec": "787.5"
+    },
+    {
+      "delegator": "0x979A6889d501044b3b8678c4D33E926124EE7F35",
+      "grossFixedRewardWei": "1050000000000000000000",
+      "grossFixedRewardAztec": "1050",
+      "delegatorPayoutWei": "787500000000000000000",
+      "delegatorPayoutAztec": "787.5"
+    },
+    {
+      "delegator": "0x99a21182389f36F0bBE29eB1F3E15c83d641865b",
+      "grossFixedRewardWei": "700000000000000000000",
+      "grossFixedRewardAztec": "700",
+      "delegatorPayoutWei": "525000000000000000000",
+      "delegatorPayoutAztec": "525"
+    },
+    {
+      "delegator": "0x6E61F5486c688d11743C313F083415fDaC9b0075",
+      "grossFixedRewardWei": "700000000000000000000",
+      "grossFixedRewardAztec": "700",
+      "delegatorPayoutWei": "525000000000000000000",
+      "delegatorPayoutAztec": "525"
+    },
+    {
+      "delegator": "0x4b294AC8048f7F9509750d3e802447c648Be53c9",
+      "grossFixedRewardWei": "350000000000000000000",
+      "grossFixedRewardAztec": "350",
+      "delegatorPayoutWei": "262500000000000000000",
+      "delegatorPayoutAztec": "262.5"
+    },
+    {
+      "delegator": "0x489DB05faD6aaC6F5be04b3a0D91c54Cb831f5ce",
+      "grossFixedRewardWei": "350000000000000000000",
+      "grossFixedRewardAztec": "350",
+      "delegatorPayoutWei": "262500000000000000000",
+      "delegatorPayoutAztec": "262.5"
+    },
+    {
+      "delegator": "0xa76147B3e2593951742813bcC7AAEb3E95ceB127",
+      "grossFixedRewardWei": "350000000000000000000",
+      "grossFixedRewardAztec": "350",
+      "delegatorPayoutWei": "262500000000000000000",
+      "delegatorPayoutAztec": "262.5"
+    }
+  ],
+  "totals": {
+    "attributedCheckpointCount": 295,
+    "actualFixedRewardWei": "101850000000000000000000",
+    "actualFixedRewardAztec": "101850",
+    "delegatorPayoutWei": "76387500000000000000000",
+    "delegatorPayoutAztec": "76387.5",
+    "operatorRetentionWei": "25462500000000000000000",
+    "operatorRetentionAztec": "25462.5",
+    "claimedV4Wei": "101850278351151405328886",
+    "claimedV4Aztec": "101850.278351151405328886",
+    "claimMinusFixedRewardWei": "278351151405328886",
+    "claimMinusFixedRewardAztec": "0.278351151405328886"
+  }
+}

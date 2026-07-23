@@ -36,14 +36,29 @@ Each settlement range adds audit artifacts under `runs/`.
 
 ## Published ranges
 
-| Range | Status | Delegator payout | Notes |
-|---|---:|---:|---|
-| `4015-4016` | paid | `262.5 AZTEC` | Initial test payout |
-| `4017-4225` | paid | `130,987.5 AZTEC` | Final reconciliation clean, `18/18` transfers |
-| `4226-4485` | paid | `144,375 AZTEC` | Final reconciliation clean, `17/17` transfers |
-| `4486-4789` | paid | `145,950 AZTEC` | Final reconciliation clean, `17/17` transfers |
+| Rollup | Range | Status | Delegator payout | Notes |
+|---|---:|---:|---:|---|
+| V4 | `4015-4016` | paid | `262.5 AZTEC` | Initial test payout |
+| V4 | `4017-4225` | paid | `130,987.5 AZTEC` | Final reconciliation clean, `18/18` transfers |
+| V4 | `4226-4485` | paid | `144,375 AZTEC` | Final reconciliation clean, `17/17` transfers |
+| V4 | `4486-4789` | paid | `145,950 AZTEC` | Final reconciliation clean, `17/17` transfers |
+| V4 | `4790-4951` | paid | `76,387.5 AZTEC` | Corrected for four zero-fixed-reward checkpoints; `16/16` transfers |
+| V5 | `0-872` | paid | `136,500 AZTEC` | First V5 payout range; `18/18` transfers |
 
-Next payout should start from epoch `4790`.
+Next payout should start from **V5 epoch `873`**.
+
+## V4 to V5 Rollup transition
+
+The V5 Rollup introduced a separate epoch sequence beginning at epoch `0`.
+
+The final V4 payout covered epochs `4790-4951`. The first V5 payout covered
+epochs `0-872`. These are separate Rollup-scoped ranges and are not overlapping
+payments.
+
+The V4 range required an on-chain reward correction because four attributed
+provider checkpoints were included in a proof batch that received zero fixed
+sequencer reward. Full details and hashes are published in
+`runs/v4-v5-transition-20260723.md`.
 
 ### README maintenance after each payout
 
@@ -86,4 +101,4 @@ For transaction-level proof, check each paid entry in the reconciliation file ag
 | Distribution wallet | `0x1F0d98760aE903AF089c847550D0C28183F4b178` |
 | Commission | `25%` / `2500` bps |
 | Payout mode | Audited off-chain payout from distribution wallet |
-| Next payout start epoch | `4790` |
+| Next payout start | V5 epoch `873` |
