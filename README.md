@@ -44,8 +44,9 @@ Each settlement range adds audit artifacts under `runs/`.
 | V4 | `4486-4789` | paid | `145,950 AZTEC` | Final reconciliation clean, `17/17` transfers |
 | V4 | `4790-4951` | paid | `76,387.5 AZTEC` | Corrected for four zero-fixed-reward checkpoints; `16/16` transfers |
 | V5 | `0-872` | paid | `136,500 AZTEC` | First V5 payout range; `18/18` transfers |
+| V5 | `873-1184` | paid | `141,750 AZTEC` | Final reconciliation clean; `19/19` direct transfers |
 
-Next payout should start from **V5 epoch `873`**.
+Next payout should start from **V5 epoch `1185`**.
 
 ## V4 to V5 Rollup transition
 
@@ -101,4 +102,4 @@ For transaction-level proof, check each paid entry in the reconciliation file ag
 | Distribution wallet | `0x1F0d98760aE903AF089c847550D0C28183F4b178` |
 | Commission | `25%` / `2500` bps |
 | Payout mode | Audited off-chain payout from distribution wallet |
-| Next payout start | V5 epoch `873` |
+| Next payout start | V5 epoch `1185` |

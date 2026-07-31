@@ -100,3 +100,21 @@
 - Fixed operator retention: `45,500 AZTEC`
 - Transfer mode: direct `ERC20.transfer`
 - Next V5 payout should start from epoch `873`.
+
+## Paid payout V5 873-1184
+
+- Status: paid / final on-chain reconciliation clean
+- Rollup: `0x91ff8bbd8ebb07893010d50a48a1609e5ebd8e34`
+- Range: `873-1184`
+- Provider ID: `25`
+- Audit: `runs/epoch-873-1184-ms9hzfn7-ff4916.json`
+- Final reconciliation: `runs/epoch-873-1184-final-reconciliation.json`
+- Done record: `runs/epoch-873-1184-done.json`
+- Reward-bearing checkpoints: `540`
+- Paid transfers: `19 / 19`
+- Delegator payout total: `141,750 AZTEC`
+- Fixed operator retention: `47,250 AZTEC`
+- Raw audit execution plan: not used
+- Actual transfer mode: direct `ERC20.transfer`
+- Multicall3 allowance after payment: `0`
+- Next V5 payout should start from epoch `1185`.
