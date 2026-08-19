@@ -40,3 +40,17 @@
 - Operator retention according to audit: 67,900 AZTEC
 - Transfer mode: direct ERC20.transfer from encrypted Foundry account
 - Next payout should start from: 1599
+
+## Paid payout 1599-1895
+
+- Status: paid / final on-chain reconciliation clean
+- Range: 1599-1895
+- Provider ID: 25
+- Audit: runs/epoch-1599-1895-mt0l6d5g-fd7def.json
+- Final reconciliation: payout-state/reconcile/reconcile-1599-1895-final.json
+- Done record: payout-state/paid-1599-1895.done.json
+- Paid transfers: 17 / 17
+- Delegator payout total: 54,075 AZTEC
+- Operator retention according to audit: 18,025 AZTEC
+- Transfer mode: direct ERC20.transfer from encrypted Foundry account
+- Next payout should start from: 1896
