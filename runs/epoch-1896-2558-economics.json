@@ -1,0 +1,210 @@
+{
+  "auditFile": "runs/epoch-1896-2558-mtpx55dv-9a2657.json",
+  "auditSha256": "766ecae7fe440ad64e534ed5466ff9501e3c0861ecbc300d465932879f68c145",
+  "checkpoints": 440,
+  "claim": {
+    "executed": false,
+    "periodEndClaimableWei": "700000000000000000000",
+    "transactionCount": 0
+  },
+  "commissionBps": 9250,
+  "delegatorCount": 16,
+  "delegatorTotalWei": "11550000000000000000000",
+  "delegatorTransactions": [
+    {
+      "amountWei": "866250000000000000000",
+      "blockNumber": 25919103,
+      "effectiveGasPriceWei": "105567008",
+      "feeWei": "3641533940960",
+      "gasUsed": 34495,
+      "ordinal": 1,
+      "recipient": "0x89BcDcc47AE56A074cB99F4cc3D2DF9dCE9B0881",
+      "transactionHash": "0x16d016cbb86f6579a1b0461b068ac8632be22cb55168f78e4097df8c50d0e2b4"
+    },
+    {
+      "amountWei": "341250000000000000000",
+      "blockNumber": 25919488,
+      "effectiveGasPriceWei": "137109332",
+      "feeWei": "4729586407340",
+      "gasUsed": 34495,
+      "ordinal": 2,
+      "recipient": "0x7Ad335A970bd2DCFe2412dc88959d29DC087dAe3",
+      "transactionHash": "0xa95fbba9d71b5e4ced2d61501063ea28af8930b1dfb050ba69e7cd2a60be462b"
+    },
+    {
+      "amountWei": "262500000000000000000",
+      "blockNumber": 25919489,
+      "effectiveGasPriceWei": "143509770",
+      "feeWei": "4950369516150",
+      "gasUsed": 34495,
+      "ordinal": 3,
+      "recipient": "0x6a43e60D5520912D20f19Eb29a011e82a6ee50AE",
+      "transactionHash": "0x1a95e1db18abfa9555acb1796ab0dce1ba66feafc94f2ff7ce50fdaf147093f7"
+    },
+    {
+      "amountWei": "131250000000000000000",
+      "blockNumber": 25919490,
+      "effectiveGasPriceWei": "137126823",
+      "feeWei": "4730189759385",
+      "gasUsed": 34495,
+      "ordinal": 4,
+      "recipient": "0x0FEf682990c99003acf47CB9CD872b43544547c9",
+      "transactionHash": "0x1b4e1ae8409bfb8e634aa63c50be5ab30ed5029e1bdba0846fe2a62a10011850"
+    },
+    {
+      "amountWei": "656250000000000000000",
+      "blockNumber": 25919491,
+      "effectiveGasPriceWei": "134136901",
+      "feeWei": "4625442757183",
+      "gasUsed": 34483,
+      "ordinal": 5,
+      "recipient": "0x6E61F5486c688d11743C313F083415fDaC9b0075",
+      "transactionHash": "0x51565f6a7550a55a418920a4e11701e8fdcfb3bf8f8af67cabadfaf5421919b1"
+    },
+    {
+      "amountWei": "472500000000000000000",
+      "blockNumber": 25919492,
+      "effectiveGasPriceWei": "129502583",
+      "feeWei": "4467191600585",
+      "gasUsed": 34495,
+      "ordinal": 6,
+      "recipient": "0x0c6AD8D10c58F4e412bB41738648502F5C53d70A",
+      "transactionHash": "0x0615ec2949b5c80f9655008bbdadd05684c9c8ac8735a918625f4b7ea9596bab"
+    },
+    {
+      "amountWei": "4856250000000000000000",
+      "blockNumber": 25919494,
+      "effectiveGasPriceWei": "120002326",
+      "feeWei": "4140920263282",
+      "gasUsed": 34507,
+      "ordinal": 7,
+      "recipient": "0x17eC1456F3fe03B5ce0386a3d362e31d99596A56",
+      "transactionHash": "0xc610e1db828578086b9ba03cbb8087dc3cc3ff2f792411ff9203f5567e8f90d3"
+    },
+    {
+      "amountWei": "105000000000000000000",
+      "blockNumber": 25919495,
+      "effectiveGasPriceWei": "125659423",
+      "feeWei": "4334621796385",
+      "gasUsed": 34495,
+      "ordinal": 8,
+      "recipient": "0x7075F5B527a8786799aB8165F4780e27Bc4844C2",
+      "transactionHash": "0xc89c38dbc299f895df2eef9588f597e1504f32763bf804ef1f4a39c67ce3fc09"
+    },
+    {
+      "amountWei": "1443750000000000000000",
+      "blockNumber": 25919496,
+      "effectiveGasPriceWei": "137474823",
+      "feeWei": "4742194019385",
+      "gasUsed": 34495,
+      "ordinal": 9,
+      "recipient": "0x04657289097b187a8EB62B11FEb542f0CE7D0c26",
+      "transactionHash": "0xf174eddff83a6fbce7a013bfe7b07584b545eb8618362464d784dbc473c687cd"
+    },
+    {
+      "amountWei": "892500000000000000000",
+      "blockNumber": 25919501,
+      "effectiveGasPriceWei": "108005246",
+      "feeWei": "3725640960770",
+      "gasUsed": 34495,
+      "ordinal": 10,
+      "recipient": "0x426834AeCD8366D51538E98966a0FCf28957ca2e",
+      "transactionHash": "0x9289da8c23fa0d06ea80a6e2a14a7eccdb399540758bb6098e8bcd46fad1fce8"
+    },
+    {
+      "amountWei": "52500000000000000000",
+      "blockNumber": 25919503,
+      "effectiveGasPriceWei": "112460243",
+      "feeWei": "3879316082285",
+      "gasUsed": 34495,
+      "ordinal": 11,
+      "recipient": "0x99a21182389f36F0bBE29eB1F3E15c83d641865b",
+      "transactionHash": "0xb2582c00b0e4c52adbe84dfb21cfe4862b26f838263d377f1e90bdf8a2b24135"
+    },
+    {
+      "amountWei": "262500000000000000000",
+      "blockNumber": 25919504,
+      "effectiveGasPriceWei": "113973476",
+      "feeWei": "3931515054620",
+      "gasUsed": 34495,
+      "ordinal": 12,
+      "recipient": "0x42D62b35402aDe3eaA9bCAeCa3d4e539F5cb0B82",
+      "transactionHash": "0xac3c5b40a5c374e219474157279601c5885f63d190690f7dfabf88f20ba35936"
+    },
+    {
+      "amountWei": "157500000000000000000",
+      "blockNumber": 25919505,
+      "effectiveGasPriceWei": "121355997",
+      "feeWei": "4186175116515",
+      "gasUsed": 34495,
+      "ordinal": 13,
+      "recipient": "0x489DB05faD6aaC6F5be04b3a0D91c54Cb831f5ce",
+      "transactionHash": "0xe75f8065ed77b4d2ee117c96977d522f649197d13237e6d5fc02be28f3380db3"
+    },
+    {
+      "amountWei": "735000000000000000000",
+      "blockNumber": 25919506,
+      "effectiveGasPriceWei": "120716623",
+      "feeWei": "6226925564209",
+      "gasUsed": 51583,
+      "ordinal": 14,
+      "recipient": "0x5F9Ff7Fcb260E2BF57C1813d5Bf884aD8636000d",
+      "transactionHash": "0x8b3601c792f3571582bd68bc3c0129d48fee74e86b12729588c49a9f75b9bb5f"
+    },
+    {
+      "amountWei": "183750000000000000000",
+      "blockNumber": 25919507,
+      "effectiveGasPriceWei": "121623537",
+      "feeWei": "4195403908815",
+      "gasUsed": 34495,
+      "ordinal": 15,
+      "recipient": "0xa76147B3e2593951742813bcC7AAEb3E95ceB127",
+      "transactionHash": "0x21c5e73c0158e047a521b021212724e18c08559b893274353b9e9c8f253ee088"
+    },
+    {
+      "amountWei": "131250000000000000000",
+      "blockNumber": 25919524,
+      "effectiveGasPriceWei": "127000302",
+      "feeWei": "4380875417490",
+      "gasUsed": 34495,
+      "ordinal": 16,
+      "recipient": "0x979A6889d501044b3b8678c4D33E926124EE7F35",
+      "transactionHash": "0xc173d7cd329c147063377fce57193d9019baf30aaf9ef61508df2ad00269a6fe"
+    }
+  ],
+  "distributionWallet": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+  "fromEpoch": 1896,
+  "grossRewardWei": "154000000000000000000000",
+  "manualPlanSha256": "3651dc186cc7be797d2a84cca4213b988c743d469f9daeddea518573917f0496",
+  "nextEpoch": 2559,
+  "operatorDestination": "0xe40c9db4b30c32dfb29f48379c21fc459337ea95",
+  "operatorRetentionWei": "142450000000000000000000",
+  "operatorTransaction": {
+    "blockNumber": 25919535,
+    "effectiveGasPriceWei": "116364924",
+    "feeWei": "4015404432468",
+    "gasUsed": 34507,
+    "transactionHash": "0x8df165d6d34458ef7bdc06a8b79220b49ab7aebab2f9549601fc75324421c8ff"
+  },
+  "proposalEconomics": {
+    "feeWei": "34481354944998730",
+    "gasUsed": "193051917",
+    "transactionCount": 440
+  },
+  "protectedRemainderWei": "1750401378041609613979",
+  "providerId": "25",
+  "settlementEconomics": {
+    "delegatorFeeWei": "70887902165359",
+    "delegatorTransactionCount": 16,
+    "firstBlock": 25919103,
+    "lastBlock": 25919535,
+    "operatorFeeWei": "4015404432468",
+    "operatorTransactionCount": 1,
+    "totalFeeWei": "74903306597827"
+  },
+  "status": "complete",
+  "toEpoch": 2558,
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "totalPeriodEthCostWei": "34556258251596557",
+  "type": "aztec-provider-payout-economics"
+}
