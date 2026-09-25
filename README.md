@@ -21,7 +21,7 @@ Aztec sequencer rewards are routed to a distribution wallet controlled by the op
 
 Provider commission rates in the Aztec staking protocol are baked into each delegation's coinbase split contract and cannot be changed retroactively for existing delegations. The off-chain audited payout flow is a tactical mechanism for operators to publish a clear effective commission and distribute rewards from a controlled distribution wallet while making the resulting payouts publicly auditable.
 
-For provider `25`, the public effective commission is `25%`.
+For provider `25`, the public effective commission is `92.5%`.
 
 ## What's in `runs/`
 
