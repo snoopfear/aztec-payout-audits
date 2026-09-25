@@ -3,6 +3,7 @@
 Public audit record for **snoopfear's** Aztec sequencer reward distributions to delegators.
 
 - Provider page: https://stake.aztec.network/providers/25
+- Provider Website: https://t.me/+SagiZd1Bij85MTQy
 - Tool source: https://github.com/AztecProtocol/aztec-staking-payout
 - Distribution wallet: `0x1F0d98760aE903AF089c847550D0C28183F4b178`
 - Provider id: `25`
