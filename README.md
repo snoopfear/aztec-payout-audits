@@ -6,7 +6,7 @@ Public audit record for **snoopfear's** Aztec sequencer reward distributions to 
 - Tool source: https://github.com/AztecProtocol/aztec-staking-payout
 - Distribution wallet: `0x1F0d98760aE903AF089c847550D0C28183F4b178`
 - Provider id: `25`
-- Current commission: `25%` / `2500` bps
+- Current commission: `92.5%` / `2500` bps
 
 ## What this repo is
 
