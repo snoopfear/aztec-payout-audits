@@ -75,3 +75,10 @@
 - Additional prior operator remainder settled: 2478.075024188583800884 AZTEC
 - Transfer mode: direct ERC20.transfer
 - Next payout should start from: 3016
+
+## 3016-3279
+- Delegator payout total: 3570 AZTEC
+- Current-period operator retention: 44030 AZTEC
+- Additional network rewards settled: 2811.541566789176317738 AZTEC
+- Transfer mode: direct ERC20.transfer
+- Next payout should start from: 3280
