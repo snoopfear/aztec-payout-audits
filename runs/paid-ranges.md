@@ -68,3 +68,10 @@
 - Operator retention according to audit: 142,450 AZTEC
 - Transfer mode: direct ERC20.transfer from encrypted Foundry account
 - Next payout should start from: 2559
+
+## 2559-3015
+- Delegator payout total: 8820 AZTEC
+- Current-period operator retention: 108780 AZTEC
+- Additional prior operator remainder settled: 2478.075024188583800884 AZTEC
+- Transfer mode: direct ERC20.transfer
+- Next payout should start from: 3016
