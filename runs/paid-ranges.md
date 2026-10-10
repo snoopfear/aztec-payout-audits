@@ -90,3 +90,11 @@
 - Transfer mode: direct ERC20.transfer
 - Total period ETH cost: 0.027808030082914977 ETH
 - Next payout should start from: 3542
+
+## 3542-3842
+- Delegator payout total: 5171.25 AZTEC
+- Current-period operator retention: 63778.75 AZTEC
+- Additional rewards settled: 380.802466455764610214 AZTEC (network fee rewards according to operator)
+- Transfer mode: direct ERC20.transfer
+- Total period ETH cost: 0.019969414859264325 ETH
+- Next payout should start from: 3843
