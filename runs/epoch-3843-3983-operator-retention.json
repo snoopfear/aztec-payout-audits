@@ -1,0 +1,26 @@
+{
+  "additionalPeriodRewardsWei": "631784654311002542",
+  "amountWei": "27545631784654311002542",
+  "balanceAtSettlementWei": "0",
+  "blockNumber": 26191198,
+  "currentPeriodRetentionWei": "27195000000000000000000",
+  "feeWei": "120584221858174",
+  "from": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+  "fromEpoch": "3843",
+  "nextPeriodAdvance": {
+    "amountWei": "350000000000000000000",
+    "automaticEnforcementByLegacyRunner": false,
+    "includedInCurrentPeriodRevenue": false,
+    "instruction": "350 AZTEC attributable to the subsequent period was transferred to the operator. Reconcile this advance in the next period's funding and operator settlement before paying. Do not reduce delegator entitlements or count this amount twice as operator income.",
+    "nextPeriodFromEpoch": "3984",
+    "reserveOnDistributionWalletAtSettlementWei": "0",
+    "status": "OUTSTANDING_FUNDING_ADJUSTMENT"
+  },
+  "providerId": "25",
+  "recordType": "manual-operator-settlement-reconciliation",
+  "to": "0xe40c9db4b30c32dfb29f48379c21fc459337ea95",
+  "toEpoch": "3983",
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "transactionHash": "0x1dc178a3603a00fc31b6ca74ccebf9cdc8e785934d754ca511637e7e99db243b",
+  "verification": "preceding read-only RPC reconciliation supplied by operator"
+}

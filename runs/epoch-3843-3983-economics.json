@@ -1,0 +1,44 @@
+{
+  "additionalPeriodRewardsWei": "631784654311002542",
+  "balanceAtSettlementWei": "0",
+  "checkpoints": 84,
+  "claimCreditedWei": "29750631784654311002542",
+  "claimTransactionHash": "0x6a99fe2c4a39d157c1a83d178e738d9f816ffbf2397833cdd62c523156c7b0f0",
+  "commissionBps": 9250,
+  "currentPeriodOperatorRetentionWei": "27195000000000000000000",
+  "delegatorCount": 12,
+  "delegatorPaidWei": "2205000000000000000000",
+  "fees": {
+    "claimFeeWei": "21263141885141",
+    "delegatorFeeWei": "159466501090831",
+    "operatorFeeWei": "120584221858174",
+    "proposalFeeWei": "4472880947838683"
+  },
+  "fromEpoch": "3843",
+  "grossRewardWei": "29400000000000000000000",
+  "nextEpoch": "3984",
+  "nextPeriodAdvance": {
+    "amountWei": "350000000000000000000",
+    "automaticEnforcementByLegacyRunner": false,
+    "includedInCurrentPeriodRevenue": false,
+    "instruction": "350 AZTEC attributable to the subsequent period was transferred to the operator. Reconcile this advance in the next period's funding and operator settlement before paying. Do not reduce delegator entitlements or count this amount twice as operator income.",
+    "nextPeriodFromEpoch": "3984",
+    "reserveOnDistributionWalletAtSettlementWei": "0",
+    "status": "OUTSTANDING_FUNDING_ADJUSTMENT"
+  },
+  "operatorSettlementWei": "27545631784654311002542",
+  "operatorTransactionHash": "0x1dc178a3603a00fc31b6ca74ccebf9cdc8e785934d754ca511637e7e99db243b",
+  "providerId": "25",
+  "reconciliationStatus": "VERIFIED_WITH_NEXT_PERIOD_ADVANCE",
+  "recordType": "manual-payout-economics",
+  "settlementBlock": 26191198,
+  "sourceHashes": {
+    "payout-state/paid-3843-3983.done.json": "e8b08f9ac9afa7801fd692fbc19446bceb7a8f6863771c5b44b18f6fcbe79c2d",
+    "payout-state/reconcile/reconcile-3843-3983-final.json": "3c32bcbb313d349993bbba328700462a9b04789c9542409a0ceaf12a468c35c2",
+    "runs/epoch-3843-3983-mv866cqo-e3cb13.json": "4e094cd62f1663355dc4e2a994fbd3885e4b5411e7f5047b4ebffef186913f68"
+  },
+  "toEpoch": "3983",
+  "totalPeriodEthCostEth": "0.004774194812672829",
+  "totalPeriodEthCostWei": "4774194812672829",
+  "verification": "preceding read-only RPC reconciliation supplied by operator"
+}

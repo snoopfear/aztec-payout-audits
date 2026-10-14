@@ -98,3 +98,15 @@
 - Transfer mode: direct ERC20.transfer
 - Total period ETH cost: 0.019969414859264325 ETH
 - Next payout should start from: 3843
+
+
+## Epochs 3843-3983
+
+- Delegators: 12/12; 2205 AZTEC.
+- Current-period operator retention: 27195 AZTEC.
+- Additional period rewards: 0.631784654311002542 AZTEC.
+- Actual operator transfer: 27545.631784654311002542 AZTEC.
+- Outstanding next-period advance: 350 AZTEC; reserve at settlement: 0.
+- Before the period starting at 3984: reconcile the 350 AZTEC funding adjustment; preserve delegator entitlements and avoid double-counting operator income. The legacy runner does not enforce this automatically.
+- Total period ETH cost: 0.004774194812672829 ETH.
+- Next epoch: 3984.
