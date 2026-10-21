@@ -110,3 +110,16 @@
 - Before the period starting at 3984: reconcile the 350 AZTEC funding adjustment; preserve delegator entitlements and avoid double-counting operator income. The legacy runner does not enforce this automatically.
 - Total period ETH cost: 0.004774194812672829 ETH.
 - Next epoch: 3984.
+
+
+## Epochs 3984-4244
+
+- Delegators: 14/14; 4383.75 AZTEC.
+- Current-period operator entitlement: 54066.25 AZTEC.
+- Prior advance from epochs 3843-3983 applied: 350 AZTEC.
+- Additional period rewards: 4.662417472605465855 AZTEC.
+- Actual operator transfer: 53720.912417472605465855 AZTEC.
+- Prior advance settled in full; outstanding advance: 0 AZTEC.
+- Distribution wallet balance at settlement: 0 AZTEC.
+- Total period ETH cost: 0.008751543908959753 ETH.
+- Next epoch: 4245.

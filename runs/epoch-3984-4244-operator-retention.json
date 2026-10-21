@@ -1,0 +1,29 @@
+{
+  "additionalPeriodRewardsWei": "4662417472605465855",
+  "amountWei": "53720912417472605465855",
+  "balanceAtSettlementWei": "0",
+  "blockNumber": 26241167,
+  "currentPeriodEntitlementWei": "54066250000000000000000",
+  "feeWei": "64321477512539",
+  "from": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+  "fromEpoch": "3984",
+  "priorAdvanceAppliedWei": "350000000000000000000",
+  "priorAdvanceSettlement": {
+    "amountAppliedWei": "350000000000000000000",
+    "amountPreviouslyWithdrawnWei": "350000000000000000000",
+    "delegatorEntitlementsReduced": false,
+    "remainingWei": "0",
+    "sourceArtifact": "runs/epoch-3843-3983-economics.json",
+    "sourceArtifactSha256": "624296d769407c27e5539d5fcc2df8e7746485f054ea0fd4598c1f78c24c760a",
+    "sourceCommit": "a0e46b94c71d05d9c6826c0fadc0804ee60cc824",
+    "sourcePeriod": "3843-3983",
+    "status": "SETTLED_BY_OFFSET_AGAINST_CURRENT_OPERATOR_ENTITLEMENT"
+  },
+  "providerId": "25",
+  "recordType": "manual-operator-settlement-reconciliation",
+  "to": "0xe40c9db4b30c32dfb29f48379c21fc459337ea95",
+  "toEpoch": "4244",
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "transactionHash": "0x2d25222ba0b4ac5812e54893500fd7c0a5ad544a165484c382cca401651e4a29",
+  "verification": "preceding read-only RPC reconciliation supplied by operator"
+}

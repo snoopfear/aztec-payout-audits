@@ -1,0 +1,47 @@
+{
+  "additionalPeriodRewardsWei": "4662417472605465855",
+  "balanceAtSettlementWei": "0",
+  "checkpoints": 167,
+  "claimCreditedWei": "58104662417472605465855",
+  "claimTransactionHash": "0x97afdf3d0fe197fc0a23f9f1c440adaa321f35b750c4893de53170976def6ee0",
+  "commissionBps": 9250,
+  "currentPeriodOperatorRetentionWei": "54066250000000000000000",
+  "delegatorCount": 14,
+  "delegatorPaidWei": "4383750000000000000000",
+  "fees": {
+    "claimFeeWei": "6600026274800",
+    "delegatorFeeWei": "44152817806067",
+    "operatorFeeWei": "64321477512539",
+    "proposalFeeWei": "8636469587366347"
+  },
+  "fromEpoch": "3984",
+  "grossRewardWei": "58450000000000000000000",
+  "nextEpoch": "4245",
+  "operatorSettlementWei": "53720912417472605465855",
+  "operatorTransactionHash": "0x2d25222ba0b4ac5812e54893500fd7c0a5ad544a165484c382cca401651e4a29",
+  "outstandingAdvanceWei": "0",
+  "priorAdvanceSettlement": {
+    "amountAppliedWei": "350000000000000000000",
+    "amountPreviouslyWithdrawnWei": "350000000000000000000",
+    "delegatorEntitlementsReduced": false,
+    "remainingWei": "0",
+    "sourceArtifact": "runs/epoch-3843-3983-economics.json",
+    "sourceArtifactSha256": "624296d769407c27e5539d5fcc2df8e7746485f054ea0fd4598c1f78c24c760a",
+    "sourceCommit": "a0e46b94c71d05d9c6826c0fadc0804ee60cc824",
+    "sourcePeriod": "3843-3983",
+    "status": "SETTLED_BY_OFFSET_AGAINST_CURRENT_OPERATOR_ENTITLEMENT"
+  },
+  "providerId": "25",
+  "reconciliationStatus": "VERIFIED",
+  "recordType": "manual-payout-economics",
+  "settlementBlock": 26241167,
+  "sourceHashes": {
+    "payout-state/paid-3984-4244.done.json": "2554a1a3252ff1ac9f8ab570799091dd01ef28bf5a672245e1274d12c643d40a",
+    "payout-state/reconcile/reconcile-3984-4244-final.json": "53300a81cde2dc37e7e4954adfec4abb3af4a9053f41358cbb5b46d03d098010",
+    "runs/epoch-3984-4244-mvi3xu5u-3cffc8.json": "725a86dc13c97184f78b506d1dfd504ff9724a40c31a769edbf6ad1b389ca6d3"
+  },
+  "toEpoch": "4244",
+  "totalPeriodEthCostEth": "0.008751543908959753",
+  "totalPeriodEthCostWei": "8751543908959753",
+  "verification": "preceding read-only RPC reconciliation supplied by operator"
+}
