@@ -1,0 +1,77 @@
+{
+  "type": "manual-multi-rollup-paid-recipient-report",
+  "status": "RECIPIENTS_COMPLETE_OPERATOR_TRANSFER_DEFERRED",
+  "providerId": "25",
+  "chainId": 1,
+  "distributionWallet": "0x1F0d98760aE903AF089c847550D0C28183F4b178",
+  "token": "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2",
+  "periods": [
+    {
+      "rollupVersion": "v5",
+      "rollup": "0x91ff8bbd8ebb07893010d50a48a1609e5ebd8e34",
+      "fromEpoch": 4245,
+      "toEpoch": 4425,
+      "recipientStatus": "PAID_AND_RECONCILED",
+      "recipientCount": 14,
+      "delegatorPaidWei": "2625000000000000000000",
+      "claimCreditWei": "35003105680934483001698",
+      "operatorAmountDeferredWei": "32378105680934483001698",
+      "operatorTransferStatus": "DEFERRED_BY_OPERATOR",
+      "operatorTransferHash": null,
+      "operatorTransferFeeWei": null,
+      "payoutPolicy": "7.5% of fixed rewards; additional network rewards retained by operator",
+      "proposalFeeFromAuditWei": "5268153463477744",
+      "verifiedRecipientPaymentFeeWei": "31720299969478",
+      "costExcludingSharedClaimAndDeferredTransferWei": "5299873763447222",
+      "nextRecipientEpoch": 4426
+    },
+    {
+      "rollupVersion": "v6",
+      "rollup": "0xe37a2663cc9c119ba41572c40fab0bbb23a5402f",
+      "fromEpoch": 606,
+      "toEpoch": 773,
+      "recipientStatus": "PAID_AND_RECONCILED",
+      "recipientCount": 12,
+      "delegatorPaidWei": "2802788241125424774036",
+      "claimCreditWei": "37370509881672330320536",
+      "operatorAmountDeferredWei": "34567721640546905546500",
+      "operatorTransferStatus": "DEFERRED_BY_OPERATOR",
+      "operatorTransferHash": null,
+      "operatorTransferFeeWei": null,
+      "payoutPolicy": "7.5% of each beneficiary's fixed rewards plus net sequencer fees",
+      "proposalFeeFromAuditWei": "5691132125069139",
+      "verifiedRecipientPaymentFeeWei": "18737259526103",
+      "costExcludingSharedClaimAndDeferredTransferWei": "5709869384595242",
+      "nextRecipientEpoch": 774
+    }
+  ],
+  "sharedClaim": {
+    "transactionHash": "0xa7f65e592c195a1123c84cb742dba30745e5d4f21bacf47b1ddcd8dd6e48a08c",
+    "feeWei": "5809173449420",
+    "feePayer": "0x5c6bdc729a98c6da1cffef3b88abaaaa6e238a52",
+    "payerOwnership": "NOT_ASSERTED",
+    "countedTimes": 1,
+    "includedInIndividualPeriodCosts": false
+  },
+  "proposalAndRecipientPaymentCostWei": "11009743148042464",
+  "combinedCostIncludingSharedClaimWei": "11015552321491884",
+  "operatorAmountDeferredWei": "66945827321481388548198",
+  "operatorTransferCostIncluded": false,
+  "evidenceBasis": {
+    "proposalFees": "Recorded gasCost.totalEthSpentWei in pinned source audits; not recomputed for this publication",
+    "recipientAndClaimFees": "Preceding operator-run read-only receipt verification; successful canonical receipts",
+    "liveRpcRecheckAtPublication": false,
+    "currentWalletBalanceAsserted": false,
+    "decimalDisplayFields": "Legacy floating-point displays are not accounting inputs; integer wei fields are authoritative for this report"
+  },
+  "sourceFiles": {
+    "runs/settlements/v5-4245-4425_v6-606-773/v5-4245-4425-audit.json": "1e73e5e82b847670affb6b52b0f488fa6379a10b31e2e4d78d5b65e95149eac5",
+    "runs/settlements/v5-4245-4425_v6-606-773/v5-4245-4425-done.json": "58c22c4f5b6f2cb69b885cff53b4a7d1453adbf873a1629224962874b60e076b",
+    "runs/settlements/v5-4245-4425_v6-606-773/v5-4245-4425-reconciliation.json": "19a50711c9958ee2d873faece0961a6ffb26224d0fbeff063dcc9a478403f530",
+    "runs/settlements/v5-4245-4425_v6-606-773/v6-606-773-audit.json": "aaa724d000bb53ceaf96ed1c1fcc052854779151083d9b97d1bdc2768e5fb32e",
+    "runs/settlements/v5-4245-4425_v6-606-773/v6-606-773-done.json": "dbf9c659424e9831d806431f380c15da21cddda695c274558ffc2c7875d6480f",
+    "runs/settlements/v5-4245-4425_v6-606-773/v6-606-773-reconciliation.json": "0451dc64df9394c259bf052a921484d6a658a2bfe076018f0ab974d94c5023c3"
+  },
+  "publicationParent": "1629e3ece0d272f68bd4d2773f17dd5fef796a13",
+  "note": "Recipient completion does not assert completion of the deferred operator transfer. Histories and next epochs are separate for each rollup."
+}
